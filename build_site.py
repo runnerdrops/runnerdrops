@@ -146,3 +146,11 @@ for f in os.listdir(OUT):
         t=open(f'{OUT}/{f}').read()
         assert 'MISSING' not in t and 'data:image' not in t and '<script' not in t, f
 print('ok', sorted(os.listdir(OUT)), sum(os.path.getsize(f'{OUT}/img/{x}') for x in os.listdir(OUT+'/img'))//1000,'KB images')
+
+# ---- GitHub Pages copy: docs/ (same site, index.html gets a full document shell, no Jekyll)
+DOCS='/home/claude/docs'
+shutil.rmtree(DOCS, ignore_errors=True); shutil.copytree(OUT, DOCS)
+_idx=open(f'{OUT}/index.html').read()
+open(f'{DOCS}/index.html','w').write('<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">'+_idx.replace('\n','</head><body>\n',1)+'</body></html>')
+open(f'{DOCS}/.nojekyll','w').write('')
+print('docs/ written for GitHub Pages')

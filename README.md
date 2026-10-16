@@ -7,11 +7,11 @@ High-fidelity static mockup of RunnerDrops.com in the Nice Kicks 2026 paste-up d
 | Path | What it is |
 |---|---|
 | `build_pages.py` | Content (shoes, calendar rows, HYROX ranking, brands, Nike lineup) + page templates. **Edit content here.** |
-| `build_site.py` | Turns the templates into the multi-page site in `site/`, wires links, writes images. |
+| `build_site.py` | Turns the templates into the multi-page site in `docs/`, wires links, writes images. |
 | `imgs.json` | Every product photo, cropped and keyed (`NIKE_LAT`, `HOKA_SQ`, …). |
 | `fonts.css`, `shared.css` | Embedded fonts (Oswald / Archivo / JetBrains Mono) and shared design tokens. |
 | `cal_block.html`, `nav.html`, `foot.html` | Shared fragments. |
-| `site/` | **Generated output.** Open `site/index.html` in a browser. Do not hand-edit. |
+| `docs/` | **Generated output** (served by GitHub Pages). Open `docs/index.html` in a browser. Do not hand-edit. |
 
 ## Rebuild
 
