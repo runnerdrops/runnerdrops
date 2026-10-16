@@ -151,6 +151,6 @@ print('ok', sorted(os.listdir(OUT)), sum(os.path.getsize(f'{OUT}/img/{x}') for x
 DOCS='/home/claude/docs'
 shutil.rmtree(DOCS, ignore_errors=True); shutil.copytree(OUT, DOCS)
 _idx=open(f'{OUT}/index.html').read()
-open(f'{DOCS}/index.html','w').write('<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">'+_idx.replace('\n','</head><body>\n',1)+'</body></html>')
+open(f'{DOCS}/index.html','w').write('<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">'+_idx.replace('\n<header','</head><body>\n<header',1)+'</body></html>')
 open(f'{DOCS}/.nojekyll','w').write('')
 print('docs/ written for GitHub Pages')
