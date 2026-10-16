@@ -1,0 +1,151 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover"><title>RunnerDrops Calendar</title>
+<link rel="stylesheet" href="css/fonts.css"><link rel="stylesheet" href="css/site.css"></head><body>
+<header class="nav"><div class="nav__in">
+<a class="nav__logo" href="index.html">Runner<em>Drops</em></a>
+<nav class="nav__links" aria-label="Primary"><a href="index.html">This week</a><a href="calendar.html" class="is-on">Calendar</a><a href="shoes.html">Shoes</a><a href="brands.html">Brands</a></nav>
+<a class="btn" href="#alerts" style="font-size:15px;padding:9px 18px">Get alerts</a>
+<button class="nav__burger" aria-label="Menu" onclick="document.querySelector('.nav__links').style.display='flex'"><span></span><span></span><span></span></button>
+</div></header>
+
+<div class="phead">
+  <div>
+    <div class="kick"><span class="tag tag--red">Live</span><span>Updated Sat Sep 5 · 9:14 AM CT</span><span>·</span><span>38 upcoming · 14 brands</span></div>
+    <h1>Release <em>calendar.</em></h1>
+    <p class="dek">Every confirmed drop, restock, price change and delay. Dashed entries are rumored or unconfirmed; we text you when they firm up.</p>
+  </div>
+  <div class="stats"><div><h5>This week</h5><b>6</b><span>SEP 7 – 13</span></div><div><h5>Next 30 days</h5><b>21</b><span>12 CONFIRMED · 9 RUMORED</span></div><div><h5>Moved</h5><b>3</b><span>IN THE LAST 7 DAYS</span></div></div>
+</div>
+<div class="toolbar"><div class="toolbar__in">
+  <div class="seg"><button class="is-on">Month</button><button>List</button></div>
+  <div class="chips"><span class="chip chip--fill">All</span><span class="chip">Racing</span><span class="chip">Daily</span><span class="chip">Super trainer</span><span class="chip">Trail</span><span class="chip">Restocks</span></div>
+  <div class="right"><select class="sel"><option>All brands</option><option>Nike</option><option>adidas</option><option>Hoka</option></select><select class="sel"><option>Confirmed + rumored</option><option>Confirmed only</option></select></div>
+  <div class="legend"><span><i style="background:var(--red)"></i>Lead drop</span><span><i style="background:var(--ink)"></i>Restock</span><span><i></i>Confirmed</span><span><i style="border-style:dashed"></i>Rumored / released</span></div>
+</div></div>
+<div class="cal-wrap">
+  <div>
+    <div class="calbar">
+      <h2>September <span>2026</span></h2>
+      <div class="arrows"><button>←</button><button>→</button></div>
+          </div>
+    <div class="cal">
+      <div class="cal__days"><div>Mon</div><div>Tue</div><div>Wed</div><div>Thu</div><div>Fri</div><div>Sat</div><div>Sun</div></div>
+      <div class="cal__week">
+        <div class="cal__day mute"><span class="num" data-day="MON">31</span></div>
+        <div class="cal__day"><span class="num" data-day="TUE">01</span><div class="drop dim"><span class="t"><img src="img/CLIFTON_SQ.jpg" alt=""></span><span>Hoka Clifton 10<small>Released</small></span></div></div>
+        <div class="cal__day"><span class="num" data-day="WED">02</span></div>
+        <div class="cal__day"><span class="num" data-day="THU">03</span><div class="drop dim"><span class="t"><img src="img/PEG42_SQ.jpg" alt=""></span><span>Nike Pegasus 42<small>Released</small></span></div></div>
+        <div class="cal__day"><span class="num" data-day="FRI">04</span></div>
+        <div class="cal__day today"><span class="num" data-day="SAT">05</span><div class="drop dim"><span class="t"><img src="img/META_SQ.jpg" alt=""></span><span>Asics Metaspeed<small>Restock · Released</small></span></div></div>
+        <div class="cal__day"><span class="num" data-day="SUN">06</span></div>
+      </div>
+      <div class="cal__week">
+        <div class="cal__day"><span class="num" data-day="MON">07</span><div class="drop"><span class="t"><img src="img/HOKA_SQ.jpg" alt=""></span><span>Hoka Mach X 3<small>$190</small></span></div></div>
+        <div class="cal__day"><span class="num" data-day="TUE">08</span><div class="drop"><span class="t"><img src="img/ASICS_SQ.jpg" alt=""></span><span>Asics Novablast 6<small>$150</small></span></div></div>
+        <div class="cal__day"><span class="num" data-day="WED">09</span><div class="drop"><span class="t"><img src="img/SAUC_SQ.jpg" alt=""></span><span>Saucony Elite 2<small>$275</small></span></div></div>
+        <div class="cal__day"><span class="num" data-day="THU">10</span><a href="shoe-alphafly-3.html" style="display:contents"><div class="drop hot"><span class="t"><img src="img/NIKE_SQ.jpg" alt=""></span><span>Alphafly 3<small>Platinum · $305</small></span></div></a><div class="drop"><span class="t"><img src="img/ON_SQ.jpg" alt=""></span><span>On Cloudboom<small>Strike LS · $330</small></span></div></div>
+        <div class="cal__day"><span class="num" data-day="FRI">11</span></div>
+        <div class="cal__day"><span class="num" data-day="SAT">12</span><a href="shoe-adios-pro-4.html" style="display:contents"><div class="drop ink"><span class="t"><img src="img/ADI_SQ.jpg" alt=""></span><span>Adios Pro 4<small>Restock · $255</small></span></div></a></div>
+        <div class="cal__day"><span class="num" data-day="SUN">13</span></div>
+      </div>
+      <div class="cal__week">
+        <div class="cal__day"><span class="num" data-day="MON">14</span><div class="drop"><span class="t"><img src="img/NB_SQ.jpg" alt=""></span><span>NB SC Elite v5<small>$250</small></span></div></div>
+        <div class="cal__day"><span class="num" data-day="TUE">15</span></div>
+        <div class="cal__day"><span class="num" data-day="WED">16</span><div class="drop"><span class="t"><img src="img/PUMA_SQ.jpg" alt=""></span><span>Puma Fast-R 3<small>$300</small></span></div></div>
+        <div class="cal__day"><span class="num" data-day="THU">17</span><div class="drop"><span class="t"><img src="img/ROCKET_SQ.jpg" alt=""></span><span>Hoka Rocket X 3<small>$250</small></span></div></div>
+        <div class="cal__day"><span class="num" data-day="FRI">18</span></div>
+        <div class="cal__day"><span class="num" data-day="SAT">19</span></div>
+        <div class="cal__day"><span class="num" data-day="SUN">20</span><a href="shoe-adios-pro-4.html" style="display:contents"><div class="drop hot"><span class="t"><img src="img/ADI_TOP.jpg" alt=""></span><span>Adios Pro 4<small>Berlin · $255</small></span></div></a></div>
+      </div>
+      <div class="cal__week">
+        <div class="cal__day"><span class="num" data-day="MON">21</span></div>
+        <div class="cal__day"><span class="num" data-day="TUE">22</span><div class="drop"><span class="t"><img src="img/BROOKS_SQ.jpg" alt=""></span><span>Brooks Hyperion<small>Elite 5 · $275</small></span></div></div>
+        <div class="cal__day"><span class="num" data-day="WED">23</span></div>
+        <div class="cal__day"><span class="num" data-day="THU">24</span><div class="drop"><span class="t"><img src="img/VF4_SQ.jpg" alt=""></span><span>Nike Vaporfly 4<small>Volt · $260</small></span></div></div>
+        <div class="cal__day"><span class="num" data-day="FRI">25</span></div>
+        <div class="cal__day"><span class="num" data-day="SAT">26</span><div class="drop dim"><span class="t"><img src="img/MIZ_SQ.jpg" alt=""></span><span>Mizuno Rebellion<small>Pro 3 · TBC</small></span></div></div>
+        <div class="cal__day"><span class="num" data-day="SUN">27</span></div>
+      </div>
+    </div>
+  </div>
+  <aside class="calrail">
+    <div class="rel">
+      <div class="rel__head"><span>Your alerts</span><span class="chip chip--red">Free</span></div>
+      <div class="rel__body">
+        <h4>Follow what you'd actually buy.</h4>
+        <p>Pick brands or categories. We text you the morning of the drop, with the link.</p>
+        <input type="tel" placeholder="Your mobile number">
+        <h5>Brands</h5>
+        <div class="chips"><span class="chip chip--fill">Nike</span><span class="chip chip--fill">adidas</span><span class="chip">Hoka</span><span class="chip">Asics</span><span class="chip">Saucony</span><span class="chip">On</span><span class="chip">NB</span><span class="chip">+7</span></div>
+        <h5>Categories</h5>
+        <div class="chips"><span class="chip chip--fill">Racing</span><span class="chip">Daily</span><span class="chip">Trail</span><span class="chip chip--fill">Restocks</span></div>
+      </div>
+      <div class="rel__buy"><button>Save my alerts</button></div>
+    </div>
+    <div class="railkick">Just reviewed</div>
+    <div class="rrow"><div class="pic"><img src="img/NIKE_SQ.jpg" alt=""></div><div><b><a href="shoe-alphafly-3.html">Alphafly 3</a></b><div class="st">RUNNERDROPS REVIEW</div></div><div class="sc">9.2<small>/10</small></div></div>
+    <div class="rrow"><div class="pic"><img src="img/ADI_SQ.jpg" alt=""></div><div><b><a href="shoe-adios-pro-4.html">Adios Pro 4</a></b><div class="st">REVIEWERS · RUNNERS</div></div><div class="sc">88%<small>78% RUNNERS</small></div></div>
+    <div class="rrow"><div class="pic"><img src="img/SAUC_SQ.jpg" alt=""></div><div><b>Endorphin Elite 2</b><div class="st">IN TEST · 60 MI</div></div><div class="sc" style="opacity:.35">—</div></div>
+  </aside>
+</div>
+
+
+<div class="cal-list">
+  <div class="twocol">
+    <div>
+      <div class="shead"><h2>Upcoming</h2><span class="no">LIST VIEW · NEXT 30 DAYS</span></div>
+      <div class="weekhead"><h3>Week of Sep 7</h3><span>6 DROPS</span></div>
+      <div class="ledger">
+        <div class="lrow"><div class="d">MON<b>07</b></div><div class="th"><div class="pic"><img src="img/HOKA_SQ.jpg" alt=""></div></div><div class="n">Hoka Mach X 3<small>Super trainer · $190 · Hoka.com, RW</small></div><a class="a" href="#">NOTIFY</a></div>
+        <div class="lrow"><div class="d">TUE<b>08</b></div><div class="th"><div class="pic"><img src="img/ASICS_SQ.jpg" alt=""></div></div><div class="n">Asics Novablast 6<small>Daily trainer · $150 · Asics.com, Fleet Feet</small></div><a class="a" href="#">NOTIFY</a></div>
+        <div class="lrow"><div class="d">WED<b>09</b></div><div class="th"><div class="pic"><img src="img/SAUC_SQ.jpg" alt=""></div></div><div class="n">Saucony Endorphin Elite 2<small>Racing · $275 · Saucony.com</small></div><a class="a" href="#">NOTIFY</a></div>
+        <div class="lrow today"><div class="d">THU<b>10</b></div><div class="th"><div class="pic"><img src="img/NIKE_SQ.jpg" alt=""></div></div><div class="n"><a href="shoe-alphafly-3.html">Nike Alphafly 3 Platinum Tint</a><small>Racing · $305 · 10:00 AM ET · Nike.com, RW, Fleet Feet</small></div><a class="a hot" href="#">NOTIFY</a></div>
+        <div class="lrow"><div class="d">THU<b>10</b></div><div class="th"><div class="pic"><img src="img/ON_SQ.jpg" alt=""></div></div><div class="n">On Cloudboom Strike LS<small>Racing · $330 · On.com</small></div><a class="a" href="#">NOTIFY</a></div>
+        <div class="lrow"><div class="d">SAT<b>12</b></div><div class="th"><div class="pic"><img src="img/ADI_SQ.jpg" alt=""></div></div><div class="n"><a href="shoe-adios-pro-4.html">adidas Adios Pro 4</a><small>Restock · $255 · adidas.com</small></div><span class="chip chip--fill">RESTOCK</span></div>
+      </div>
+      <div class="weekhead"><h3>Week of Sep 14</h3><span>4 DROPS · 1 RUMORED</span></div>
+      <div class="ledger">
+        <div class="lrow"><div class="d">MON<b>14</b></div><div class="th"><div class="pic"><img src="img/NB_SQ.jpg" alt=""></div></div><div class="n">New Balance SC Elite v5<small>Racing · $250</small></div><a class="a" href="#">NOTIFY</a></div>
+        <div class="lrow"><div class="d">WED<b>16</b></div><div class="th"><div class="pic"><img src="img/PUMA_SQ.jpg" alt=""></div></div><div class="n">Puma Fast-R Nitro Elite 3<small>Racing · $300</small></div><a class="a" href="#">NOTIFY</a></div>
+        <div class="lrow"><div class="d">THU<b>17</b></div><div class="th"><div class="pic"><img src="img/ROCKET_SQ.jpg" alt=""></div></div><div class="n">Hoka Rocket X 3<small>Racing · $250</small></div><a class="a" href="#">NOTIFY</a></div>
+        <div class="lrow"><div class="d">FRI<b>18</b></div><div class="th"><div class="pic"><img src="img/PEGPLUS2_SQ.jpg" alt=""></div></div><div class="n">Nike Pegasus Plus 2<span class="rum">RUMORED</span><small>Daily trainer · est. $180 · source: retailer listing</small></div><a class="a" href="#">WATCH</a></div>
+        <div class="lrow"><div class="d">SUN<b>20</b></div><div class="th"><div class="pic"><img src="img/ADI_TOP.jpg" alt=""></div></div><div class="n"><a href="shoe-adios-pro-4.html">adidas Adios Pro 4 'Berlin'</a><small>Racing · $255 · Lead drop</small></div><a class="a hot" href="#">NOTIFY</a></div>
+      </div>
+      <div class="weekhead"><h3>Week of Sep 21</h3><span>3 DROPS · 1 RUMORED</span></div>
+      <div class="ledger">
+        <div class="lrow"><div class="d">TUE<b>22</b></div><div class="th"><div class="pic"><img src="img/BROOKS_SQ.jpg" alt=""></div></div><div class="n">Brooks Hyperion Elite 5<small>Racing · $275</small></div><a class="a" href="#">NOTIFY</a></div>
+        <div class="lrow"><div class="d">THU<b>24</b></div><div class="th"><div class="pic"><img src="img/VF4_SQ.jpg" alt=""></div></div><div class="n">Nike Vaporfly 4 Volt<small>Racing · $260</small></div><a class="a" href="#">NOTIFY</a></div>
+        <div class="lrow"><div class="d">SAT<b>26</b></div><div class="th"><div class="pic"><img src="img/MIZ_SQ.jpg" alt=""></div></div><div class="n">Mizuno Wave Rebellion Pro 3<span class="rum">RUMORED</span><small>Racing · est. $250 · source: Japan release</small></div><a class="a" href="#">WATCH</a></div>
+      </div>
+    </div>
+    <div>
+      <div class="shead"><h2>Moved &amp; changed</h2><span class="no">LAST 7 DAYS</span></div>
+      <div class="movedbox">
+        <h4>Delays</h4>
+        <div><b>Hoka Cielo X1 2.0</b><s>Sep 4</s> → Oct 2 · Hoka confirmed via retailer memo</div>
+        <div><b>Altra Vanish Carbon 3</b><s>Sep 30</s> → Oct 14 · Running Warehouse listing updated</div>
+      </div>
+      <div class="movedbox">
+        <h4>Price changes</h4>
+        <div><b>Nike Alphafly 3</b>$285 → <span class="up">$305</span> on all new colorways</div>
+        <div><b>Saucony Endorphin Pro 4</b>$225 → $180 at Fleet Feet · deal</div>
+      </div>
+      <div class="movedbox">
+        <h4>Newly confirmed</h4>
+        <div><b><a href="shoe-adios-pro-4.html">adidas Adios Pro 4 'Berlin'</a></b>Sep 20 · was rumored, now confirmed by adidas</div>
+        <div><b>Nike Vaporfly 4 Volt</b>Sep 24 · colorway and date confirmed</div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="band"><div class="band__in"><h2>Follow a shoe.<br><span>We'll do the refreshing.</span></h2><div><form class="sms" onsubmit="return false"><input type="tel" placeholder="Your mobile number"><button class="btn">Get alerts</button></form><div class="fine">FREE · ONE TEXT PER DROP YOU FOLLOW · REPLY STOP TO LEAVE</div></div></div></div>
+
+<footer class="footer" id="alerts">
+  <div class="footer__in">
+    <div><div class="footer__wm">Runner<em>Drops</em></div><p>The release calendar for running shoes. A text before it drops, not a tweet after it's gone.</p></div>
+    <div><h5>Site</h5><ul><li><a href="index.html">This week</a></li><li><a href="calendar.html">Calendar</a></li><li><a href="shoes.html">Shoes</a></li><li><a href="brands.html">Brands</a></li></ul></div>
+    <div><h5>Alerts</h5><ul><li>SMS drops</li><li>Email digest</li><li>Restocks</li></ul></div>
+    <div><h5>RunnerDrops</h5><ul><li>About</li><li><a href="shoe-alphafly-3.html#tiers">How we review</a></li><li>Partnerships</li><li>Contact</li></ul></div>
+  </div>
+  <div class="footer__base"><div><span>© 2026 RUNNERDROPS</span><span>PRIVACY · TERMS · AFFILIATE DISCLOSURE</span></div></div>
+</footer>
+</body></html>
