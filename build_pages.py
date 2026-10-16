@@ -96,8 +96,10 @@ def bcard(b,up,rev,ru,nxt,date,img):
 </a>'''
 bcards='\n'.join(bcard(*b) for b in BRANDS)
 BRANDS20=[('361°','361 Degrees'),('adidas','adidas'),('Altra','Altra'),('ANTA','ANTA'),('Asics','ASICS'),('Brooks','Brooks'),('Diadora','Diadora'),('Hoka','HOKA'),('Kiprun','Kiprun'),('Li-Ning','Li-Ning'),('Mizuno','Mizuno'),('New Balance','New Balance'),('Nike','Nike'),('Norda','norda'),('On','On'),('Puma','PUMA'),('Reebok','Reebok'),('Salomon','Salomon'),('Saucony','Saucony'),('Under Armour','Under Armour')]
+LOGO_SLUG={'361°':'361','Under Armour':'under-armour','New Balance':'new-balance','Li-Ning':'li-ning'}
 def btile(name,wm):
-    return f'''<a class="bt" href="#"><div class="bt__logo"><span>{wm}</span></div><div class="bt__n">{name}</div></a>'''
+    slug=LOGO_SLUG.get(name,name.lower())
+    return f'''<a class="bt" href="#"><div class="bt__logo"><img src="img/logos/{slug}.png" alt="{wm}"></div><div class="bt__n">{name}</div></a>'''
 btiles='\n'.join(btile(*b) for b in BRANDS20)
 
 
@@ -224,7 +226,7 @@ CSS='''
 .btgrid{display:grid;grid-template-columns:repeat(5,1fr);gap:var(--bw);background:var(--ink);border:var(--bw) solid var(--ink)}
 .bt{display:flex;flex-direction:column;background:var(--card);min-width:0}
 .bt__logo{aspect-ratio:5/3;display:grid;place-items:center;padding:18px;border-bottom:1px solid var(--hair)}
-.bt__logo img{max-width:70%;max-height:60%;object-fit:contain;mix-blend-mode:multiply}
+.bt__logo img{width:46%;aspect-ratio:1;height:auto;object-fit:contain;display:block}
 .bt__logo span{font-family:var(--disp);font-weight:700;font-size:clamp(22px,2.4vw,34px);text-transform:uppercase;letter-spacing:.02em;opacity:.25;text-align:center;line-height:1}
 .bt__n{font-family:var(--mono);font-size:10.5px;letter-spacing:.12em;text-transform:uppercase;padding:10px 14px;display:flex;justify-content:space-between;align-items:center}
 .bt__n::after{content:"→";opacity:.4}

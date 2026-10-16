@@ -4,6 +4,7 @@ shutil.rmtree(OUT, ignore_errors=True); os.makedirs(OUT+'/img'); os.makedirs(OUT
 d=json.load(open('imgs.json')); rev={v:k for k,v in d.items()}
 for k,v in d.items():
     open(f'{OUT}/img/{k}.jpg','wb').write(base64.b64decode(v.split(',',1)[1]))
+shutil.copytree('/home/claude/logos', OUT+'/img/logos')
 def deimg(s):
     s=re.sub(r'data:image/jpeg;base64,[^"]+',lambda m:'img/'+rev.get(m.group(0),'MISSING')+'.jpg',s)
     s=re.sub(r'data-img="([A-Z_0-9]+)" src=""',r'src="img/\1.jpg"',s)

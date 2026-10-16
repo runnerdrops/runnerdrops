@@ -460,7 +460,7 @@ img{display:block;max-width:100%}
 .btgrid{display:grid;grid-template-columns:repeat(5,1fr);gap:var(--bw);background:var(--ink);border:var(--bw) solid var(--ink)}
 .bt{display:flex;flex-direction:column;background:var(--card);min-width:0}
 .bt__logo{aspect-ratio:5/3;display:grid;place-items:center;padding:18px;border-bottom:1px solid var(--hair)}
-.bt__logo img{max-width:70%;max-height:60%;object-fit:contain;mix-blend-mode:multiply}
+.bt__logo img{width:46%;aspect-ratio:1;height:auto;object-fit:contain;display:block}
 .bt__logo span{font-family:var(--disp);font-weight:700;font-size:clamp(22px,2.4vw,34px);text-transform:uppercase;letter-spacing:.02em;opacity:.25;text-align:center;line-height:1}
 .bt__n{font-family:var(--mono);font-size:10.5px;letter-spacing:.12em;text-transform:uppercase;padding:10px 14px;display:flex;justify-content:space-between;align-items:center}
 .bt__n::after{content:"→";opacity:.4}

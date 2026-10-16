@@ -11,6 +11,7 @@ High-fidelity static mockup of RunnerDrops.com in the Nice Kicks 2026 paste-up d
 | `imgs.json` | Every product photo, cropped and keyed (`NIKE_LAT`, `HOKA_SQ`, …). |
 | `fonts.css`, `shared.css` | Embedded fonts (Oswald / Archivo / JetBrains Mono) and shared design tokens. |
 | `cal_block.html`, `nav.html`, `foot.html` | Shared fragments. |
+| `logo-src/` → `logos/` | Brand logos as supplied, and the normalized black-on-transparent squares the site uses (`python3 tools/make_logos.py logo-src logos`). |
 | `docs/` | **Generated output** (served by GitHub Pages). Open `docs/index.html` in a browser. Do not hand-edit. |
 
 ## Rebuild
