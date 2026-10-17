@@ -1,6 +1,6 @@
 {
  "meta": {
-  "fetched_at": "2026-10-17T04:01:56Z",
+  "fetched_at": "2026-10-17T04:05:15Z",
   "media_base": "https://ktqligbqigndccaeygvi.supabase.co/storage/v1/object/public/media/"
  },
  "brands": [
@@ -1307,12 +1307,12 @@
    "release_date": null,
    "release_time": null,
    "tz": "America/New_York",
-   "window_label": "Nov 2026",
+   "window_label": "Dec 2026",
    "kind": "launch",
    "status": "rumored",
    "price_cents": 31000,
    "is_lead_drop": false,
-   "source": "athlete samples at Berlin",
+   "source": "athlete samples at Berlin \u00b7 retailer memo",
    "note": null,
    "shoe_id": "ebc1395c-0df8-4f5c-be90-8fc08ed13f46",
    "shoe_slug": "alphafly-4",
