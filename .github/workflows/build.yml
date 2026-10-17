@@ -1,0 +1,44 @@
+name: Build site from Supabase
+
+on:
+  push:
+    branches: [main]
+    paths-ignore: ['docs/**', 'data/**']   # commits made by this workflow don't retrigger it
+  schedule:
+    - cron: '17 * * * *'                   # hourly
+  workflow_dispatch:                        # "Run workflow" button in the Actions tab
+  repository_dispatch:
+    types: [content-updated]                # for a Supabase webhook later
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      SUPABASE_URL: ${{ vars.SUPABASE_URL || 'https://ktqligbqigndccaeygvi.supabase.co' }}
+      SUPABASE_KEY: ${{ vars.SUPABASE_KEY || 'sb_publishable_Echb1Z1JCnQz80uVzRdA0w_-uT_LBSa' }}
+      # "Today" is pinned to 2026-09-05 while the calendar holds mockup dates.
+      # To switch to the real date: Settings → Secrets and variables → Actions → Variables → add RD_TODAY = today
+      RD_TODAY: ${{ vars.RD_TODAY || '2026-09-05' }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.12' }
+      - name: Fetch content from Supabase
+        run: python3 tools/fetch_data.py
+      - name: Build pages
+        run: python3 build.py
+      - name: Commit and publish if anything changed
+        run: |
+          git config user.name "runnerdrops-bot"
+          git config user.email "bot@runnerdrops.com"
+          git add -A docs data
+          if git diff --cached --quiet; then echo "No content changes."; exit 0; fi
+          git commit -m "Rebuild site from Supabase ($(date -u +'%Y-%m-%d %H:%M UTC'))"
+          git push

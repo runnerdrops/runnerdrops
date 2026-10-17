@@ -1,0 +1,2023 @@
+{
+ "meta": {
+  "fetched_at": "2026-10-17T03:52:12Z",
+  "media_base": "https://ktqligbqigndccaeygvi.supabase.co/storage/v1/object/public/media/"
+ },
+ "brands": [
+  {
+   "id": "b85e413b-bebc-431b-87df-87bdd8783ab6",
+   "slug": "361",
+   "name": "361\u00b0",
+   "wordmark": "361 Degrees",
+   "logo_path": "logos/361.png",
+   "website": "https://www.361usa.com",
+   "sort_name": "361",
+   "created_at": "2026-10-17T03:00:52.718577+00:00"
+  },
+  {
+   "id": "d8e4e622-ed04-4c31-88a4-b6a49e705a95",
+   "slug": "adidas",
+   "name": "adidas",
+   "wordmark": "adidas",
+   "logo_path": "logos/adidas.png",
+   "website": "https://www.adidas.com",
+   "sort_name": "adidas",
+   "created_at": "2026-10-17T03:00:52.718577+00:00"
+  },
+  {
+   "id": "84c9cf03-4fe1-4a2d-80ce-5b76f1b411c9",
+   "slug": "altra",
+   "name": "Altra",
+   "wordmark": "Altra",
+   "logo_path": "logos/altra.png",
+   "website": "https://www.altrarunning.com",
+   "sort_name": "altra",
+   "created_at": "2026-10-17T03:00:52.718577+00:00"
+  },
+  {
+   "id": "bdbc65fc-20fa-489b-9bcf-34deee8300ab",
+   "slug": "anta",
+   "name": "ANTA",
+   "wordmark": "ANTA",
+   "logo_path": "logos/anta.png",
+   "website": "https://www.anta.com",
+   "sort_name": "anta",
+   "created_at": "2026-10-17T03:00:52.718577+00:00"
+  },
+  {
+   "id": "ac7a04d9-989d-4df7-835d-31a0505cf20f",
+   "slug": "asics",
+   "name": "Asics",
+   "wordmark": "ASICS",
+   "logo_path": "logos/asics.png",
+   "website": "https://www.asics.com",
+   "sort_name": "asics",
+   "created_at": "2026-10-17T03:00:52.718577+00:00"
+  },
+  {
+   "id": "71b99572-d97b-4b75-9f51-ac907695ce03",
+   "slug": "brooks",
+   "name": "Brooks",
+   "wordmark": "Brooks",
+   "logo_path": "logos/brooks.png",
+   "website": "https://www.brooksrunning.com",
+   "sort_name": "brooks",
+   "created_at": "2026-10-17T03:00:52.718577+00:00"
+  },
+  {
+   "id": "f61537c1-8d6d-4060-a31c-d42bcce26d48",
+   "slug": "diadora",
+   "name": "Diadora",
+   "wordmark": "Diadora",
+   "logo_path": "logos/diadora.png",
+   "website": "https://www.diadora.com",
+   "sort_name": "diadora",
+   "created_at": "2026-10-17T03:00:52.718577+00:00"
+  },
+  {
+   "id": "6973dc8c-df6a-4bd8-89d4-04657f80bbe5",
+   "slug": "hoka",
+   "name": "Hoka",
+   "wordmark": "HOKA",
+   "logo_path": "logos/hoka.png",
+   "website": "https://www.hoka.com",
+   "sort_name": "hoka",
+   "created_at": "2026-10-17T03:00:52.718577+00:00"
+  },
+  {
+   "id": "ccb8d4e9-38aa-42d9-abc9-99d093846308",
+   "slug": "kiprun",
+   "name": "Kiprun",
+   "wordmark": "Kiprun",
+   "logo_path": "logos/kiprun.png",
+   "website": "https://www.decathlon.com",
+   "sort_name": "kiprun",
+   "created_at": "2026-10-17T03:00:52.718577+00:00"
+  },
+  {
+   "id": "20aea757-04b4-43e4-bb30-761b250870cb",
+   "slug": "li-ning",
+   "name": "Li-Ning",
+   "wordmark": "Li-Ning",
+   "logo_path": "logos/li-ning.png",
+   "website": "https://www.li-ning.com",
+   "sort_name": "lining",
+   "created_at": "2026-10-17T03:00:52.718577+00:00"
+  },
+  {
+   "id": "afc8a488-1ef7-4988-8b48-de49177ed053",
+   "slug": "mizuno",
+   "name": "Mizuno",
+   "wordmark": "Mizuno",
+   "logo_path": "logos/mizuno.png",
+   "website": "https://www.mizunousa.com",
+   "sort_name": "mizuno",
+   "created_at": "2026-10-17T03:00:52.718577+00:00"
+  },
+  {
+   "id": "14a58ec6-ad71-47a4-97d0-e89d838eff6b",
+   "slug": "new-balance",
+   "name": "New Balance",
+   "wordmark": "New Balance",
+   "logo_path": "logos/new-balance.png",
+   "website": "https://www.newbalance.com",
+   "sort_name": "newbalance",
+   "created_at": "2026-10-17T03:00:52.718577+00:00"
+  },
+  {
+   "id": "1c54c040-c820-42f2-8c1e-af8c36a88d4d",
+   "slug": "nike",
+   "name": "Nike",
+   "wordmark": "Nike",
+   "logo_path": "logos/nike.png",
+   "website": "https://www.nike.com",
+   "sort_name": "nike",
+   "created_at": "2026-10-17T03:00:52.718577+00:00"
+  },
+  {
+   "id": "a62878e2-f65d-43c4-a34e-17ff31b7d72f",
+   "slug": "norda",
+   "name": "Norda",
+   "wordmark": "norda",
+   "logo_path": "logos/norda.png",
+   "website": "https://nordarun.com",
+   "sort_name": "norda",
+   "created_at": "2026-10-17T03:00:52.718577+00:00"
+  },
+  {
+   "id": "49e90dc2-86be-4522-b8d6-6931498b0eed",
+   "slug": "on",
+   "name": "On",
+   "wordmark": "On",
+   "logo_path": "logos/on.png",
+   "website": "https://www.on.com",
+   "sort_name": "on",
+   "created_at": "2026-10-17T03:00:52.718577+00:00"
+  },
+  {
+   "id": "862ed0f5-c0d4-4cc2-a147-0f5a93aaf723",
+   "slug": "puma",
+   "name": "Puma",
+   "wordmark": "PUMA",
+   "logo_path": "logos/puma.png",
+   "website": "https://us.puma.com",
+   "sort_name": "puma",
+   "created_at": "2026-10-17T03:00:52.718577+00:00"
+  },
+  {
+   "id": "3a70d9a3-6367-4db8-a601-0e3e4310feaf",
+   "slug": "reebok",
+   "name": "Reebok",
+   "wordmark": "Reebok",
+   "logo_path": "logos/reebok.png",
+   "website": "https://www.reebok.com",
+   "sort_name": "reebok",
+   "created_at": "2026-10-17T03:00:52.718577+00:00"
+  },
+  {
+   "id": "2d5b8948-be2c-4c5f-bb73-9aacee4faece",
+   "slug": "salomon",
+   "name": "Salomon",
+   "wordmark": "Salomon",
+   "logo_path": "logos/salomon.png",
+   "website": "https://www.salomon.com",
+   "sort_name": "salomon",
+   "created_at": "2026-10-17T03:00:52.718577+00:00"
+  },
+  {
+   "id": "7c49ef9d-ab7e-4dbe-84b3-13efcbbfdd23",
+   "slug": "saucony",
+   "name": "Saucony",
+   "wordmark": "Saucony",
+   "logo_path": "logos/saucony.png",
+   "website": "https://www.saucony.com",
+   "sort_name": "saucony",
+   "created_at": "2026-10-17T03:00:52.718577+00:00"
+  },
+  {
+   "id": "215359b2-02ab-49d0-9f56-39bcbe44c094",
+   "slug": "under-armour",
+   "name": "Under Armour",
+   "wordmark": "Under Armour",
+   "logo_path": "logos/under-armour.png",
+   "website": "https://www.underarmour.com",
+   "sort_name": "underarmour",
+   "created_at": "2026-10-17T03:00:52.718577+00:00"
+  }
+ ],
+ "shoes": [
+  {
+   "id": "50d01b79-62ae-492e-b725-928d741b9ed7",
+   "brand_id": "d8e4e622-ed04-4c31-88a4-b6a49e705a95",
+   "slug": "adizero-adios-pro-4",
+   "name": "Adizero Adios Pro 4",
+   "category": "racing",
+   "status": "released",
+   "msrp_cents": 25500,
+   "weight_oz": 7.1,
+   "drop_mm": 6.0,
+   "plate": "EnergyRods",
+   "stack_mm": null,
+   "image_path": "shoes/ADI_SQ.jpg",
+   "summary": null,
+   "created_at": "2026-10-17T03:00:52.718577+00:00",
+   "updated_at": "2026-10-17T03:00:52.718577+00:00",
+   "brand": {
+    "slug": "adidas",
+    "name": "adidas",
+    "wordmark": "adidas"
+   }
+  },
+  {
+   "id": "abb0fdfa-475f-4469-95cd-2dd2cdedd5eb",
+   "brand_id": "1c54c040-c820-42f2-8c1e-af8c36a88d4d",
+   "slug": "alphafly-3",
+   "name": "Alphafly 3",
+   "category": "racing",
+   "status": "released",
+   "msrp_cents": 30500,
+   "weight_oz": 7.7,
+   "drop_mm": 8.0,
+   "plate": "Carbon",
+   "stack_mm": null,
+   "image_path": "shoes/NIKE_SQ.jpg",
+   "summary": null,
+   "created_at": "2026-10-17T03:00:52.718577+00:00",
+   "updated_at": "2026-10-17T03:00:52.718577+00:00",
+   "brand": {
+    "slug": "nike",
+    "name": "Nike",
+    "wordmark": "Nike"
+   }
+  },
+  {
+   "id": "ebc1395c-0df8-4f5c-be90-8fc08ed13f46",
+   "brand_id": "1c54c040-c820-42f2-8c1e-af8c36a88d4d",
+   "slug": "alphafly-4",
+   "name": "Alphafly 4",
+   "category": "racing",
+   "status": "rumored",
+   "msrp_cents": 31000,
+   "weight_oz": null,
+   "drop_mm": null,
+   "plate": "Carbon",
+   "stack_mm": null,
+   "image_path": "shoes/AF4_SQ.jpg",
+   "summary": null,
+   "created_at": "2026-10-17T03:00:52.718577+00:00",
+   "updated_at": "2026-10-17T03:00:52.718577+00:00",
+   "brand": {
+    "slug": "nike",
+    "name": "Nike",
+    "wordmark": "Nike"
+   }
+  },
+  {
+   "id": "dc8c4d75-061f-4626-97b5-71ba98b9ed6c",
+   "brand_id": "6973dc8c-df6a-4bd8-89d4-04657f80bbe5",
+   "slug": "cielo-x1-2",
+   "name": "Cielo X1 2.0",
+   "category": "racing",
+   "status": "upcoming",
+   "msrp_cents": 27500,
+   "weight_oz": 8.3,
+   "drop_mm": 7.0,
+   "plate": "Carbon",
+   "stack_mm": null,
+   "image_path": "shoes/CIELO_SQ.jpg",
+   "summary": null,
+   "created_at": "2026-10-17T03:00:52.718577+00:00",
+   "updated_at": "2026-10-17T03:00:52.718577+00:00",
+   "brand": {
+    "slug": "hoka",
+    "name": "Hoka",
+    "wordmark": "HOKA"
+   }
+  },
+  {
+   "id": "a0cca292-1af2-4ab5-8655-28184c96ef82",
+   "brand_id": "6973dc8c-df6a-4bd8-89d4-04657f80bbe5",
+   "slug": "clifton-10",
+   "name": "Clifton 10",
+   "category": "daily_trainer",
+   "status": "released",
+   "msrp_cents": 15000,
+   "weight_oz": 9.8,
+   "drop_mm": 8.0,
+   "plate": null,
+   "stack_mm": null,
+   "image_path": "shoes/CLIFTON_SQ.jpg",
+   "summary": null,
+   "created_at": "2026-10-17T03:00:52.718577+00:00",
+   "updated_at": "2026-10-17T03:00:52.718577+00:00",
+   "brand": {
+    "slug": "hoka",
+    "name": "Hoka",
+    "wordmark": "HOKA"
+   }
+  },
+  {
+   "id": "9a75d06d-c780-41c7-88b7-03b5f87bef57",
+   "brand_id": "49e90dc2-86be-4522-b8d6-6931498b0eed",
+   "slug": "cloudboom-strike-ls",
+   "name": "Cloudboom Strike LS",
+   "category": "racing",
+   "status": "upcoming",
+   "msrp_cents": 33000,
+   "weight_oz": 6.1,
+   "drop_mm": 4.0,
+   "plate": "Carbon",
+   "stack_mm": null,
+   "image_path": "shoes/ON_SQ.jpg",
+   "summary": null,
+   "created_at": "2026-10-17T03:00:52.718577+00:00",
+   "updated_at": "2026-10-17T03:00:52.718577+00:00",
+   "brand": {
+    "slug": "on",
+    "name": "On",
+    "wordmark": "On"
+   }
+  },
+  {
+   "id": "710f48ec-55a8-480e-8989-5e56adda3afe",
+   "brand_id": "7c49ef9d-ab7e-4dbe-84b3-13efcbbfdd23",
+   "slug": "endorphin-elite-2",
+   "name": "Endorphin Elite 2",
+   "category": "racing",
+   "status": "upcoming",
+   "msrp_cents": 27500,
+   "weight_oz": 7.2,
+   "drop_mm": 8.0,
+   "plate": "Carbon",
+   "stack_mm": null,
+   "image_path": "shoes/SAUC_SQ.jpg",
+   "summary": null,
+   "created_at": "2026-10-17T03:00:52.718577+00:00",
+   "updated_at": "2026-10-17T03:00:52.718577+00:00",
+   "brand": {
+    "slug": "saucony",
+    "name": "Saucony",
+    "wordmark": "Saucony"
+   }
+  },
+  {
+   "id": "1b681216-8c77-4e39-8160-cd2c3c642185",
+   "brand_id": "7c49ef9d-ab7e-4dbe-84b3-13efcbbfdd23",
+   "slug": "endorphin-pro-4",
+   "name": "Endorphin Pro 4",
+   "category": "racing",
+   "status": "released",
+   "msrp_cents": 22500,
+   "weight_oz": 7.5,
+   "drop_mm": 8.0,
+   "plate": "Carbon",
+   "stack_mm": null,
+   "image_path": "shoes/PRO4_SQ.jpg",
+   "summary": null,
+   "created_at": "2026-10-17T03:00:52.718577+00:00",
+   "updated_at": "2026-10-17T03:00:52.718577+00:00",
+   "brand": {
+    "slug": "saucony",
+    "name": "Saucony",
+    "wordmark": "Saucony"
+   }
+  },
+  {
+   "id": "99fa759b-0ba2-4794-9a19-c68c4d66ec6f",
+   "brand_id": "862ed0f5-c0d4-4cc2-a147-0f5a93aaf723",
+   "slug": "fast-r-nitro-elite-3",
+   "name": "Fast-R Nitro Elite 3",
+   "category": "racing",
+   "status": "upcoming",
+   "msrp_cents": 30000,
+   "weight_oz": 6.0,
+   "drop_mm": 8.0,
+   "plate": "Carbon",
+   "stack_mm": null,
+   "image_path": "shoes/PUMA_SQ.jpg",
+   "summary": null,
+   "created_at": "2026-10-17T03:00:52.718577+00:00",
+   "updated_at": "2026-10-17T03:00:52.718577+00:00",
+   "brand": {
+    "slug": "puma",
+    "name": "Puma",
+    "wordmark": "PUMA"
+   }
+  },
+  {
+   "id": "11e2dacf-bece-4141-aa3e-65221fbbeb3f",
+   "brand_id": "71b99572-d97b-4b75-9f51-ac907695ce03",
+   "slug": "hyperion-elite-5",
+   "name": "Hyperion Elite 5",
+   "category": "racing",
+   "status": "upcoming",
+   "msrp_cents": 27500,
+   "weight_oz": 7.4,
+   "drop_mm": 8.0,
+   "plate": "Carbon",
+   "stack_mm": null,
+   "image_path": "shoes/BROOKS_SQ.jpg",
+   "summary": null,
+   "created_at": "2026-10-17T03:00:52.718577+00:00",
+   "updated_at": "2026-10-17T03:00:52.718577+00:00",
+   "brand": {
+    "slug": "brooks",
+    "name": "Brooks",
+    "wordmark": "Brooks"
+   }
+  },
+  {
+   "id": "a6656f24-c95e-407c-94e1-1eb470e73cbf",
+   "brand_id": "6973dc8c-df6a-4bd8-89d4-04657f80bbe5",
+   "slug": "mach-x-3",
+   "name": "Mach X 3",
+   "category": "super_trainer",
+   "status": "upcoming",
+   "msrp_cents": 19000,
+   "weight_oz": 8.9,
+   "drop_mm": 5.0,
+   "plate": "Pebax",
+   "stack_mm": null,
+   "image_path": "shoes/HOKA_SQ.jpg",
+   "summary": null,
+   "created_at": "2026-10-17T03:00:52.718577+00:00",
+   "updated_at": "2026-10-17T03:00:52.718577+00:00",
+   "brand": {
+    "slug": "hoka",
+    "name": "Hoka",
+    "wordmark": "HOKA"
+   }
+  },
+  {
+   "id": "ef99bf54-a308-4245-8d84-35f90321550a",
+   "brand_id": "ac7a04d9-989d-4df7-835d-31a0505cf20f",
+   "slug": "metaspeed-sky-paris",
+   "name": "Metaspeed Sky Paris",
+   "category": "racing",
+   "status": "released",
+   "msrp_cents": 25000,
+   "weight_oz": 6.5,
+   "drop_mm": 5.0,
+   "plate": "Carbon",
+   "stack_mm": null,
+   "image_path": "shoes/META_SQ.jpg",
+   "summary": null,
+   "created_at": "2026-10-17T03:00:52.718577+00:00",
+   "updated_at": "2026-10-17T03:00:52.718577+00:00",
+   "brand": {
+    "slug": "asics",
+    "name": "Asics",
+    "wordmark": "ASICS"
+   }
+  },
+  {
+   "id": "87077be4-e3a2-41c9-a87b-391c7c969d45",
+   "brand_id": "ac7a04d9-989d-4df7-835d-31a0505cf20f",
+   "slug": "novablast-6",
+   "name": "Novablast 6",
+   "category": "daily_trainer",
+   "status": "upcoming",
+   "msrp_cents": 15000,
+   "weight_oz": 8.8,
+   "drop_mm": 8.0,
+   "plate": null,
+   "stack_mm": null,
+   "image_path": "shoes/ASICS_SQ.jpg",
+   "summary": null,
+   "created_at": "2026-10-17T03:00:52.718577+00:00",
+   "updated_at": "2026-10-17T03:00:52.718577+00:00",
+   "brand": {
+    "slug": "asics",
+    "name": "Asics",
+    "wordmark": "ASICS"
+   }
+  },
+  {
+   "id": "16a481c2-548d-4e4a-b027-d276c9cf0801",
+   "brand_id": "1c54c040-c820-42f2-8c1e-af8c36a88d4d",
+   "slug": "pegasus-42",
+   "name": "Pegasus 42",
+   "category": "daily_trainer",
+   "status": "released",
+   "msrp_cents": 15000,
+   "weight_oz": 9.6,
+   "drop_mm": 10.0,
+   "plate": null,
+   "stack_mm": null,
+   "image_path": "shoes/PEG42_SQ.jpg",
+   "summary": null,
+   "created_at": "2026-10-17T03:00:52.718577+00:00",
+   "updated_at": "2026-10-17T03:00:52.718577+00:00",
+   "brand": {
+    "slug": "nike",
+    "name": "Nike",
+    "wordmark": "Nike"
+   }
+  },
+  {
+   "id": "ef63bce6-33f6-46e8-98c4-db8e9b3c548d",
+   "brand_id": "1c54c040-c820-42f2-8c1e-af8c36a88d4d",
+   "slug": "pegasus-plus-2",
+   "name": "Pegasus Plus 2",
+   "category": "daily_trainer",
+   "status": "rumored",
+   "msrp_cents": 18000,
+   "weight_oz": null,
+   "drop_mm": null,
+   "plate": null,
+   "stack_mm": null,
+   "image_path": "shoes/PEGPLUS2_SQ.jpg",
+   "summary": null,
+   "created_at": "2026-10-17T03:00:52.718577+00:00",
+   "updated_at": "2026-10-17T03:00:52.718577+00:00",
+   "brand": {
+    "slug": "nike",
+    "name": "Nike",
+    "wordmark": "Nike"
+   }
+  },
+  {
+   "id": "74471df7-d61b-4a03-92f7-f5834445e591",
+   "brand_id": "6973dc8c-df6a-4bd8-89d4-04657f80bbe5",
+   "slug": "rocket-x-3",
+   "name": "Rocket X 3",
+   "category": "racing",
+   "status": "upcoming",
+   "msrp_cents": 25000,
+   "weight_oz": 7.5,
+   "drop_mm": 7.0,
+   "plate": "Carbon",
+   "stack_mm": null,
+   "image_path": "shoes/ROCKET_SQ.jpg",
+   "summary": null,
+   "created_at": "2026-10-17T03:00:52.718577+00:00",
+   "updated_at": "2026-10-17T03:00:52.718577+00:00",
+   "brand": {
+    "slug": "hoka",
+    "name": "Hoka",
+    "wordmark": "HOKA"
+   }
+  },
+  {
+   "id": "f8915c9d-5d93-4bb3-913c-a44752d2ee94",
+   "brand_id": "14a58ec6-ad71-47a4-97d0-e89d838eff6b",
+   "slug": "sc-elite-v5",
+   "name": "SC Elite v5",
+   "category": "racing",
+   "status": "upcoming",
+   "msrp_cents": 25000,
+   "weight_oz": 7.3,
+   "drop_mm": 4.0,
+   "plate": "Carbon",
+   "stack_mm": null,
+   "image_path": "shoes/NB_SQ.jpg",
+   "summary": null,
+   "created_at": "2026-10-17T03:00:52.718577+00:00",
+   "updated_at": "2026-10-17T03:00:52.718577+00:00",
+   "brand": {
+    "slug": "new-balance",
+    "name": "New Balance",
+    "wordmark": "New Balance"
+   }
+  },
+  {
+   "id": "1339f4f1-0fc5-493b-a2ef-f9b86568fe33",
+   "brand_id": "1c54c040-c820-42f2-8c1e-af8c36a88d4d",
+   "slug": "vaporfly-3",
+   "name": "Vaporfly 3",
+   "category": "racing",
+   "status": "released",
+   "msrp_cents": 26000,
+   "weight_oz": 7.0,
+   "drop_mm": 8.0,
+   "plate": "Carbon",
+   "stack_mm": null,
+   "image_path": "shoes/VF3_SQ.jpg",
+   "summary": null,
+   "created_at": "2026-10-17T03:00:52.718577+00:00",
+   "updated_at": "2026-10-17T03:00:52.718577+00:00",
+   "brand": {
+    "slug": "nike",
+    "name": "Nike",
+    "wordmark": "Nike"
+   }
+  },
+  {
+   "id": "70f69a3b-aac5-45af-a12e-5da0e59eb359",
+   "brand_id": "1c54c040-c820-42f2-8c1e-af8c36a88d4d",
+   "slug": "vaporfly-4",
+   "name": "Vaporfly 4",
+   "category": "racing",
+   "status": "upcoming",
+   "msrp_cents": 26000,
+   "weight_oz": 6.5,
+   "drop_mm": 6.0,
+   "plate": "Carbon",
+   "stack_mm": null,
+   "image_path": "shoes/VF4_SQ.jpg",
+   "summary": null,
+   "created_at": "2026-10-17T03:00:52.718577+00:00",
+   "updated_at": "2026-10-17T03:00:52.718577+00:00",
+   "brand": {
+    "slug": "nike",
+    "name": "Nike",
+    "wordmark": "Nike"
+   }
+  },
+  {
+   "id": "eac87c7f-db15-4780-81fc-396204b5e9ed",
+   "brand_id": "afc8a488-1ef7-4988-8b48-de49177ed053",
+   "slug": "wave-rebellion-pro-3",
+   "name": "Wave Rebellion Pro 3",
+   "category": "racing",
+   "status": "rumored",
+   "msrp_cents": 25000,
+   "weight_oz": null,
+   "drop_mm": null,
+   "plate": "Carbon",
+   "stack_mm": null,
+   "image_path": "shoes/MIZ_SQ.jpg",
+   "summary": null,
+   "created_at": "2026-10-17T03:00:52.718577+00:00",
+   "updated_at": "2026-10-17T03:00:52.718577+00:00",
+   "brand": {
+    "slug": "mizuno",
+    "name": "Mizuno",
+    "wordmark": "Mizuno"
+   }
+  }
+ ],
+ "colorways": [
+  {
+   "id": "288fce4a-54ea-47a8-8ca6-a0e36751e947",
+   "shoe_id": "abb0fdfa-475f-4469-95cd-2dd2cdedd5eb",
+   "name": "Platinum Tint",
+   "sku": null,
+   "image_path": null,
+   "created_at": "2026-10-17T03:00:52.718577+00:00"
+  },
+  {
+   "id": "05659072-b42f-48da-b4ac-bf32e59dcb81",
+   "shoe_id": "abb0fdfa-475f-4469-95cd-2dd2cdedd5eb",
+   "name": "Volt",
+   "sku": null,
+   "image_path": null,
+   "created_at": "2026-10-17T03:00:52.718577+00:00"
+  },
+  {
+   "id": "f9c9978c-08c4-4edf-9c09-275f58240fe1",
+   "shoe_id": "70f69a3b-aac5-45af-a12e-5da0e59eb359",
+   "name": "Volt",
+   "sku": null,
+   "image_path": null,
+   "created_at": "2026-10-17T03:00:52.718577+00:00"
+  },
+  {
+   "id": "9ae0745a-1622-4bd6-bf7a-95e0d7024d28",
+   "shoe_id": "1339f4f1-0fc5-493b-a2ef-f9b86568fe33",
+   "name": "Volt",
+   "sku": null,
+   "image_path": null,
+   "created_at": "2026-10-17T03:00:52.718577+00:00"
+  },
+  {
+   "id": "d7e54bf6-9cd4-4ca7-947b-521cf89e721f",
+   "shoe_id": "50d01b79-62ae-492e-b725-928d741b9ed7",
+   "name": "Berlin",
+   "sku": null,
+   "image_path": null,
+   "created_at": "2026-10-17T03:00:52.718577+00:00"
+  },
+  {
+   "id": "14ac3567-1747-4f39-90d6-105bcca07e49",
+   "shoe_id": "16a481c2-548d-4e4a-b027-d276c9cf0801",
+   "name": "Shield",
+   "sku": null,
+   "image_path": null,
+   "created_at": "2026-10-17T03:00:52.718577+00:00"
+  }
+ ],
+ "retailers": [
+  {
+   "id": "190dfac8-66ef-4f24-9db4-5f76d763c1b3",
+   "slug": "nike",
+   "name": "Nike.com",
+   "domain": "nike.com",
+   "affiliate_network": null,
+   "is_brand_store": true
+  },
+  {
+   "id": "693ed0d0-ec0a-4ac3-a17d-eb0e673e39bb",
+   "slug": "adidas",
+   "name": "adidas.com",
+   "domain": "adidas.com",
+   "affiliate_network": null,
+   "is_brand_store": true
+  },
+  {
+   "id": "71320272-0109-4c26-946b-a1f4d3a8f996",
+   "slug": "hoka",
+   "name": "Hoka.com",
+   "domain": "hoka.com",
+   "affiliate_network": null,
+   "is_brand_store": true
+  },
+  {
+   "id": "7fd31284-2e18-4cfa-8dd4-c11fa82103af",
+   "slug": "asics",
+   "name": "Asics.com",
+   "domain": "asics.com",
+   "affiliate_network": null,
+   "is_brand_store": true
+  },
+  {
+   "id": "1f3c1abc-91af-40cd-8b94-84da89015a86",
+   "slug": "saucony",
+   "name": "Saucony.com",
+   "domain": "saucony.com",
+   "affiliate_network": null,
+   "is_brand_store": true
+  },
+  {
+   "id": "47bc0840-9e34-4a9f-8bee-660f12850291",
+   "slug": "on",
+   "name": "On.com",
+   "domain": "on.com",
+   "affiliate_network": null,
+   "is_brand_store": true
+  },
+  {
+   "id": "c7280fdc-1b9c-4f08-93de-c453fe4e20c4",
+   "slug": "running-warehouse",
+   "name": "Running Warehouse",
+   "domain": "runningwarehouse.com",
+   "affiliate_network": "Impact",
+   "is_brand_store": false
+  },
+  {
+   "id": "3cbd9bc6-105e-4f6f-9e6e-ac349e6dd6ab",
+   "slug": "fleet-feet",
+   "name": "Fleet Feet",
+   "domain": "fleetfeet.com",
+   "affiliate_network": "Impact",
+   "is_brand_store": false
+  }
+ ],
+ "releases": [
+  {
+   "id": "7a204d55-d80b-4555-8da4-9b1d7810aa04",
+   "release_date": "2026-09-01",
+   "release_time": null,
+   "tz": "America/New_York",
+   "window_label": null,
+   "kind": "launch",
+   "status": "released",
+   "price_cents": 15000,
+   "is_lead_drop": false,
+   "source": null,
+   "note": null,
+   "shoe_id": "a0cca292-1af2-4ab5-8655-28184c96ef82",
+   "shoe_slug": "clifton-10",
+   "shoe_name": "Clifton 10",
+   "category": "daily_trainer",
+   "shoe_image": "shoes/CLIFTON_SQ.jpg",
+   "colorway": null,
+   "image_path": "shoes/CLIFTON_SQ.jpg",
+   "brand_slug": "hoka",
+   "brand_name": "Hoka",
+   "retailers": [
+    {
+     "name": "Hoka.com",
+     "url": null
+    }
+   ]
+  },
+  {
+   "id": "cc4386f9-bc36-4e60-87e5-8f58c51002c4",
+   "release_date": "2026-09-03",
+   "release_time": null,
+   "tz": "America/New_York",
+   "window_label": null,
+   "kind": "launch",
+   "status": "released",
+   "price_cents": 15000,
+   "is_lead_drop": false,
+   "source": null,
+   "note": null,
+   "shoe_id": "16a481c2-548d-4e4a-b027-d276c9cf0801",
+   "shoe_slug": "pegasus-42",
+   "shoe_name": "Pegasus 42",
+   "category": "daily_trainer",
+   "shoe_image": "shoes/PEG42_SQ.jpg",
+   "colorway": null,
+   "image_path": "shoes/PEG42_SQ.jpg",
+   "brand_slug": "nike",
+   "brand_name": "Nike",
+   "retailers": [
+    {
+     "name": "Nike.com",
+     "url": null
+    }
+   ]
+  },
+  {
+   "id": "163c2598-50c1-4235-a528-cb992bb1ea8d",
+   "release_date": "2026-09-05",
+   "release_time": null,
+   "tz": "America/New_York",
+   "window_label": null,
+   "kind": "restock",
+   "status": "released",
+   "price_cents": 25000,
+   "is_lead_drop": false,
+   "source": null,
+   "note": null,
+   "shoe_id": "ef99bf54-a308-4245-8d84-35f90321550a",
+   "shoe_slug": "metaspeed-sky-paris",
+   "shoe_name": "Metaspeed Sky Paris",
+   "category": "racing",
+   "shoe_image": "shoes/META_SQ.jpg",
+   "colorway": null,
+   "image_path": "shoes/META_SQ.jpg",
+   "brand_slug": "asics",
+   "brand_name": "Asics",
+   "retailers": [
+    {
+     "name": "Asics.com",
+     "url": null
+    }
+   ]
+  },
+  {
+   "id": "8536400f-7653-4659-b9e6-d5d024eda067",
+   "release_date": "2026-09-07",
+   "release_time": null,
+   "tz": "America/New_York",
+   "window_label": null,
+   "kind": "launch",
+   "status": "confirmed",
+   "price_cents": 19000,
+   "is_lead_drop": false,
+   "source": null,
+   "note": null,
+   "shoe_id": "a6656f24-c95e-407c-94e1-1eb470e73cbf",
+   "shoe_slug": "mach-x-3",
+   "shoe_name": "Mach X 3",
+   "category": "super_trainer",
+   "shoe_image": "shoes/HOKA_SQ.jpg",
+   "colorway": null,
+   "image_path": "shoes/HOKA_SQ.jpg",
+   "brand_slug": "hoka",
+   "brand_name": "Hoka",
+   "retailers": [
+    {
+     "name": "Hoka.com",
+     "url": null
+    },
+    {
+     "name": "Running Warehouse",
+     "url": null
+    }
+   ]
+  },
+  {
+   "id": "b9c66414-8875-47ce-bcbc-b8b8bb4cbdc7",
+   "release_date": "2026-09-08",
+   "release_time": null,
+   "tz": "America/New_York",
+   "window_label": null,
+   "kind": "launch",
+   "status": "confirmed",
+   "price_cents": 15000,
+   "is_lead_drop": false,
+   "source": null,
+   "note": null,
+   "shoe_id": "87077be4-e3a2-41c9-a87b-391c7c969d45",
+   "shoe_slug": "novablast-6",
+   "shoe_name": "Novablast 6",
+   "category": "daily_trainer",
+   "shoe_image": "shoes/ASICS_SQ.jpg",
+   "colorway": null,
+   "image_path": "shoes/ASICS_SQ.jpg",
+   "brand_slug": "asics",
+   "brand_name": "Asics",
+   "retailers": [
+    {
+     "name": "Asics.com",
+     "url": null
+    },
+    {
+     "name": "Fleet Feet",
+     "url": null
+    }
+   ]
+  },
+  {
+   "id": "787825ce-e225-493d-b2ca-d298085cfb88",
+   "release_date": "2026-09-09",
+   "release_time": null,
+   "tz": "America/New_York",
+   "window_label": null,
+   "kind": "launch",
+   "status": "confirmed",
+   "price_cents": 27500,
+   "is_lead_drop": false,
+   "source": null,
+   "note": null,
+   "shoe_id": "710f48ec-55a8-480e-8989-5e56adda3afe",
+   "shoe_slug": "endorphin-elite-2",
+   "shoe_name": "Endorphin Elite 2",
+   "category": "racing",
+   "shoe_image": "shoes/SAUC_SQ.jpg",
+   "colorway": null,
+   "image_path": "shoes/SAUC_SQ.jpg",
+   "brand_slug": "saucony",
+   "brand_name": "Saucony",
+   "retailers": [
+    {
+     "name": "Saucony.com",
+     "url": null
+    }
+   ]
+  },
+  {
+   "id": "b547bea5-42d1-402a-93b6-b1be05c4cae9",
+   "release_date": "2026-09-10",
+   "release_time": "10:00:00",
+   "tz": "America/New_York",
+   "window_label": null,
+   "kind": "colorway",
+   "status": "confirmed",
+   "price_cents": 30500,
+   "is_lead_drop": true,
+   "source": null,
+   "note": null,
+   "shoe_id": "abb0fdfa-475f-4469-95cd-2dd2cdedd5eb",
+   "shoe_slug": "alphafly-3",
+   "shoe_name": "Alphafly 3",
+   "category": "racing",
+   "shoe_image": "shoes/NIKE_SQ.jpg",
+   "colorway": "Platinum Tint",
+   "image_path": "shoes/NIKE_SQ.jpg",
+   "brand_slug": "nike",
+   "brand_name": "Nike",
+   "retailers": [
+    {
+     "name": "Nike.com",
+     "url": null
+    }
+   ]
+  },
+  {
+   "id": "005cc24a-f7c7-40aa-ac45-ca99e947eee2",
+   "release_date": "2026-09-10",
+   "release_time": null,
+   "tz": "America/New_York",
+   "window_label": null,
+   "kind": "launch",
+   "status": "confirmed",
+   "price_cents": 33000,
+   "is_lead_drop": false,
+   "source": null,
+   "note": null,
+   "shoe_id": "9a75d06d-c780-41c7-88b7-03b5f87bef57",
+   "shoe_slug": "cloudboom-strike-ls",
+   "shoe_name": "Cloudboom Strike LS",
+   "category": "racing",
+   "shoe_image": "shoes/ON_SQ.jpg",
+   "colorway": null,
+   "image_path": "shoes/ON_SQ.jpg",
+   "brand_slug": "on",
+   "brand_name": "On",
+   "retailers": [
+    {
+     "name": "On.com",
+     "url": null
+    }
+   ]
+  },
+  {
+   "id": "ac112b74-fc77-4328-a79d-b59999fd2da9",
+   "release_date": "2026-09-12",
+   "release_time": null,
+   "tz": "America/New_York",
+   "window_label": null,
+   "kind": "restock",
+   "status": "confirmed",
+   "price_cents": 25500,
+   "is_lead_drop": false,
+   "source": null,
+   "note": null,
+   "shoe_id": "50d01b79-62ae-492e-b725-928d741b9ed7",
+   "shoe_slug": "adizero-adios-pro-4",
+   "shoe_name": "Adizero Adios Pro 4",
+   "category": "racing",
+   "shoe_image": "shoes/ADI_SQ.jpg",
+   "colorway": null,
+   "image_path": "shoes/ADI_SQ.jpg",
+   "brand_slug": "adidas",
+   "brand_name": "adidas",
+   "retailers": [
+    {
+     "name": "adidas.com",
+     "url": null
+    }
+   ]
+  },
+  {
+   "id": "e983959a-0705-4bd4-8cb1-ed92c84c94c6",
+   "release_date": "2026-09-14",
+   "release_time": null,
+   "tz": "America/New_York",
+   "window_label": null,
+   "kind": "launch",
+   "status": "confirmed",
+   "price_cents": 25000,
+   "is_lead_drop": false,
+   "source": null,
+   "note": null,
+   "shoe_id": "f8915c9d-5d93-4bb3-913c-a44752d2ee94",
+   "shoe_slug": "sc-elite-v5",
+   "shoe_name": "SC Elite v5",
+   "category": "racing",
+   "shoe_image": "shoes/NB_SQ.jpg",
+   "colorway": null,
+   "image_path": "shoes/NB_SQ.jpg",
+   "brand_slug": "new-balance",
+   "brand_name": "New Balance",
+   "retailers": null
+  },
+  {
+   "id": "4d9d3b25-5c97-4276-80e3-9adafe847e44",
+   "release_date": "2026-09-16",
+   "release_time": null,
+   "tz": "America/New_York",
+   "window_label": null,
+   "kind": "launch",
+   "status": "confirmed",
+   "price_cents": 30000,
+   "is_lead_drop": false,
+   "source": null,
+   "note": null,
+   "shoe_id": "99fa759b-0ba2-4794-9a19-c68c4d66ec6f",
+   "shoe_slug": "fast-r-nitro-elite-3",
+   "shoe_name": "Fast-R Nitro Elite 3",
+   "category": "racing",
+   "shoe_image": "shoes/PUMA_SQ.jpg",
+   "colorway": null,
+   "image_path": "shoes/PUMA_SQ.jpg",
+   "brand_slug": "puma",
+   "brand_name": "Puma",
+   "retailers": null
+  },
+  {
+   "id": "ab17bd8e-841c-4e97-9016-40199a222cf8",
+   "release_date": "2026-09-17",
+   "release_time": null,
+   "tz": "America/New_York",
+   "window_label": null,
+   "kind": "launch",
+   "status": "confirmed",
+   "price_cents": 25000,
+   "is_lead_drop": false,
+   "source": null,
+   "note": null,
+   "shoe_id": "74471df7-d61b-4a03-92f7-f5834445e591",
+   "shoe_slug": "rocket-x-3",
+   "shoe_name": "Rocket X 3",
+   "category": "racing",
+   "shoe_image": "shoes/ROCKET_SQ.jpg",
+   "colorway": null,
+   "image_path": "shoes/ROCKET_SQ.jpg",
+   "brand_slug": "hoka",
+   "brand_name": "Hoka",
+   "retailers": null
+  },
+  {
+   "id": "c6c715ff-f8e3-4ed9-9cee-120797c27386",
+   "release_date": "2026-09-18",
+   "release_time": null,
+   "tz": "America/New_York",
+   "window_label": null,
+   "kind": "launch",
+   "status": "rumored",
+   "price_cents": 18000,
+   "is_lead_drop": false,
+   "source": "retailer listing",
+   "note": null,
+   "shoe_id": "ef63bce6-33f6-46e8-98c4-db8e9b3c548d",
+   "shoe_slug": "pegasus-plus-2",
+   "shoe_name": "Pegasus Plus 2",
+   "category": "daily_trainer",
+   "shoe_image": "shoes/PEGPLUS2_SQ.jpg",
+   "colorway": null,
+   "image_path": "shoes/PEGPLUS2_SQ.jpg",
+   "brand_slug": "nike",
+   "brand_name": "Nike",
+   "retailers": null
+  },
+  {
+   "id": "b8a75b0e-3098-4756-bc7e-b1394fc46bef",
+   "release_date": "2026-09-20",
+   "release_time": null,
+   "tz": "America/New_York",
+   "window_label": null,
+   "kind": "colorway",
+   "status": "confirmed",
+   "price_cents": 25500,
+   "is_lead_drop": true,
+   "source": null,
+   "note": "Lead drop",
+   "shoe_id": "50d01b79-62ae-492e-b725-928d741b9ed7",
+   "shoe_slug": "adizero-adios-pro-4",
+   "shoe_name": "Adizero Adios Pro 4",
+   "category": "racing",
+   "shoe_image": "shoes/ADI_SQ.jpg",
+   "colorway": "Berlin",
+   "image_path": "shoes/ADI_SQ.jpg",
+   "brand_slug": "adidas",
+   "brand_name": "adidas",
+   "retailers": [
+    {
+     "name": "adidas.com",
+     "url": null
+    }
+   ]
+  },
+  {
+   "id": "82aba34e-2e04-4872-a638-95fea00fa73c",
+   "release_date": "2026-09-22",
+   "release_time": null,
+   "tz": "America/New_York",
+   "window_label": null,
+   "kind": "launch",
+   "status": "confirmed",
+   "price_cents": 27500,
+   "is_lead_drop": false,
+   "source": null,
+   "note": null,
+   "shoe_id": "11e2dacf-bece-4141-aa3e-65221fbbeb3f",
+   "shoe_slug": "hyperion-elite-5",
+   "shoe_name": "Hyperion Elite 5",
+   "category": "racing",
+   "shoe_image": "shoes/BROOKS_SQ.jpg",
+   "colorway": null,
+   "image_path": "shoes/BROOKS_SQ.jpg",
+   "brand_slug": "brooks",
+   "brand_name": "Brooks",
+   "retailers": null
+  },
+  {
+   "id": "6db5d390-032f-4eff-9760-df1c0aa229f1",
+   "release_date": "2026-09-24",
+   "release_time": null,
+   "tz": "America/New_York",
+   "window_label": null,
+   "kind": "launch",
+   "status": "confirmed",
+   "price_cents": 26000,
+   "is_lead_drop": false,
+   "source": null,
+   "note": null,
+   "shoe_id": "70f69a3b-aac5-45af-a12e-5da0e59eb359",
+   "shoe_slug": "vaporfly-4",
+   "shoe_name": "Vaporfly 4",
+   "category": "racing",
+   "shoe_image": "shoes/VF4_SQ.jpg",
+   "colorway": "Volt",
+   "image_path": "shoes/VF4_SQ.jpg",
+   "brand_slug": "nike",
+   "brand_name": "Nike",
+   "retailers": [
+    {
+     "name": "Nike.com",
+     "url": null
+    }
+   ]
+  },
+  {
+   "id": "8ae50462-de62-4188-a691-2467edc4b025",
+   "release_date": "2026-09-26",
+   "release_time": null,
+   "tz": "America/New_York",
+   "window_label": null,
+   "kind": "launch",
+   "status": "rumored",
+   "price_cents": 25000,
+   "is_lead_drop": false,
+   "source": "Japan release",
+   "note": null,
+   "shoe_id": "eac87c7f-db15-4780-81fc-396204b5e9ed",
+   "shoe_slug": "wave-rebellion-pro-3",
+   "shoe_name": "Wave Rebellion Pro 3",
+   "category": "racing",
+   "shoe_image": "shoes/MIZ_SQ.jpg",
+   "colorway": null,
+   "image_path": "shoes/MIZ_SQ.jpg",
+   "brand_slug": "mizuno",
+   "brand_name": "Mizuno",
+   "retailers": null
+  },
+  {
+   "id": "0f0ac31f-b542-4375-9903-4ff703f49c40",
+   "release_date": "2026-10-02",
+   "release_time": null,
+   "tz": "America/New_York",
+   "window_label": null,
+   "kind": "delay",
+   "status": "confirmed",
+   "price_cents": 27500,
+   "is_lead_drop": false,
+   "source": null,
+   "note": "Moved from Sep 18",
+   "shoe_id": "dc8c4d75-061f-4626-97b5-71ba98b9ed6c",
+   "shoe_slug": "cielo-x1-2",
+   "shoe_name": "Cielo X1 2.0",
+   "category": "racing",
+   "shoe_image": "shoes/CIELO_SQ.jpg",
+   "colorway": null,
+   "image_path": "shoes/CIELO_SQ.jpg",
+   "brand_slug": "hoka",
+   "brand_name": "Hoka",
+   "retailers": [
+    {
+     "name": "Hoka.com",
+     "url": null
+    }
+   ]
+  },
+  {
+   "id": "3bd88a4f-3456-446f-8f1c-f7a3a57098d7",
+   "release_date": "2026-10-03",
+   "release_time": null,
+   "tz": "America/New_York",
+   "window_label": null,
+   "kind": "restock",
+   "status": "confirmed",
+   "price_cents": 30500,
+   "is_lead_drop": false,
+   "source": null,
+   "note": null,
+   "shoe_id": "abb0fdfa-475f-4469-95cd-2dd2cdedd5eb",
+   "shoe_slug": "alphafly-3",
+   "shoe_name": "Alphafly 3",
+   "category": "racing",
+   "shoe_image": "shoes/NIKE_SQ.jpg",
+   "colorway": "Volt",
+   "image_path": "shoes/NIKE_SQ.jpg",
+   "brand_slug": "nike",
+   "brand_name": "Nike",
+   "retailers": [
+    {
+     "name": "Nike.com",
+     "url": null
+    }
+   ]
+  },
+  {
+   "id": "7562a991-3577-44b9-b400-6ab8970ba9c1",
+   "release_date": "2026-10-15",
+   "release_time": null,
+   "tz": "America/New_York",
+   "window_label": null,
+   "kind": "colorway",
+   "status": "confirmed",
+   "price_cents": 15000,
+   "is_lead_drop": false,
+   "source": null,
+   "note": "Winterized",
+   "shoe_id": "16a481c2-548d-4e4a-b027-d276c9cf0801",
+   "shoe_slug": "pegasus-42",
+   "shoe_name": "Pegasus 42",
+   "category": "daily_trainer",
+   "shoe_image": "shoes/PEG42_SQ.jpg",
+   "colorway": "Shield",
+   "image_path": "shoes/PEG42_SQ.jpg",
+   "brand_slug": "nike",
+   "brand_name": "Nike",
+   "retailers": [
+    {
+     "name": "Nike.com",
+     "url": null
+    }
+   ]
+  },
+  {
+   "id": "65d62e5f-32c5-4dc3-82c3-fca1991e0b61",
+   "release_date": null,
+   "release_time": null,
+   "tz": "America/New_York",
+   "window_label": "Nov 2026",
+   "kind": "launch",
+   "status": "rumored",
+   "price_cents": 31000,
+   "is_lead_drop": false,
+   "source": "athlete samples at Berlin",
+   "note": null,
+   "shoe_id": "ebc1395c-0df8-4f5c-be90-8fc08ed13f46",
+   "shoe_slug": "alphafly-4",
+   "shoe_name": "Alphafly 4",
+   "category": "racing",
+   "shoe_image": "shoes/AF4_SQ.jpg",
+   "colorway": null,
+   "image_path": "shoes/AF4_SQ.jpg",
+   "brand_slug": "nike",
+   "brand_name": "Nike",
+   "retailers": null
+  }
+ ],
+ "ratings": [
+  {
+   "shoe_id": "abb0fdfa-475f-4469-95cd-2dd2cdedd5eb",
+   "rd_score": 9.2,
+   "rd_verdict": null,
+   "reviewers_pct": 91,
+   "reviewers_count": null,
+   "runners_pct": 87,
+   "runners_count": null,
+   "disagreement": null,
+   "updated_at": "2026-10-17T03:00:52.718577+00:00"
+  },
+  {
+   "shoe_id": "50d01b79-62ae-492e-b725-928d741b9ed7",
+   "rd_score": null,
+   "rd_verdict": null,
+   "reviewers_pct": 88,
+   "reviewers_count": null,
+   "runners_pct": 78,
+   "runners_count": null,
+   "disagreement": null,
+   "updated_at": "2026-10-17T03:00:52.718577+00:00"
+  },
+  {
+   "shoe_id": "70f69a3b-aac5-45af-a12e-5da0e59eb359",
+   "rd_score": null,
+   "rd_verdict": null,
+   "reviewers_pct": 90,
+   "reviewers_count": null,
+   "runners_pct": 84,
+   "runners_count": null,
+   "disagreement": null,
+   "updated_at": "2026-10-17T03:00:52.718577+00:00"
+  },
+  {
+   "shoe_id": "1339f4f1-0fc5-493b-a2ef-f9b86568fe33",
+   "rd_score": 8.8,
+   "rd_verdict": null,
+   "reviewers_pct": 89,
+   "reviewers_count": null,
+   "runners_pct": 86,
+   "runners_count": null,
+   "disagreement": null,
+   "updated_at": "2026-10-17T03:00:52.718577+00:00"
+  },
+  {
+   "shoe_id": "710f48ec-55a8-480e-8989-5e56adda3afe",
+   "rd_score": null,
+   "rd_verdict": null,
+   "reviewers_pct": 86,
+   "reviewers_count": null,
+   "runners_pct": 80,
+   "runners_count": null,
+   "disagreement": null,
+   "updated_at": "2026-10-17T03:00:52.718577+00:00"
+  },
+  {
+   "shoe_id": "1b681216-8c77-4e39-8160-cd2c3c642185",
+   "rd_score": 8.4,
+   "rd_verdict": null,
+   "reviewers_pct": 85,
+   "reviewers_count": null,
+   "runners_pct": 83,
+   "runners_count": null,
+   "disagreement": null,
+   "updated_at": "2026-10-17T03:00:52.718577+00:00"
+  },
+  {
+   "shoe_id": "ef99bf54-a308-4245-8d84-35f90321550a",
+   "rd_score": 8.9,
+   "rd_verdict": null,
+   "reviewers_pct": 92,
+   "reviewers_count": null,
+   "runners_pct": 85,
+   "runners_count": null,
+   "disagreement": null,
+   "updated_at": "2026-10-17T03:00:52.718577+00:00"
+  },
+  {
+   "shoe_id": "f8915c9d-5d93-4bb3-913c-a44752d2ee94",
+   "rd_score": null,
+   "rd_verdict": null,
+   "reviewers_pct": 84,
+   "reviewers_count": null,
+   "runners_pct": 79,
+   "runners_count": null,
+   "disagreement": null,
+   "updated_at": "2026-10-17T03:00:52.718577+00:00"
+  },
+  {
+   "shoe_id": "99fa759b-0ba2-4794-9a19-c68c4d66ec6f",
+   "rd_score": null,
+   "rd_verdict": null,
+   "reviewers_pct": 93,
+   "reviewers_count": null,
+   "runners_pct": 81,
+   "runners_count": null,
+   "disagreement": null,
+   "updated_at": "2026-10-17T03:00:52.718577+00:00"
+  },
+  {
+   "shoe_id": "11e2dacf-bece-4141-aa3e-65221fbbeb3f",
+   "rd_score": null,
+   "rd_verdict": null,
+   "reviewers_pct": 82,
+   "reviewers_count": null,
+   "runners_pct": 76,
+   "runners_count": null,
+   "disagreement": null,
+   "updated_at": "2026-10-17T03:00:52.718577+00:00"
+  },
+  {
+   "shoe_id": "dc8c4d75-061f-4626-97b5-71ba98b9ed6c",
+   "rd_score": 8.1,
+   "rd_verdict": null,
+   "reviewers_pct": 83,
+   "reviewers_count": null,
+   "runners_pct": 77,
+   "runners_count": null,
+   "disagreement": null,
+   "updated_at": "2026-10-17T03:00:52.718577+00:00"
+  },
+  {
+   "shoe_id": "9a75d06d-c780-41c7-88b7-03b5f87bef57",
+   "rd_score": null,
+   "rd_verdict": null,
+   "reviewers_pct": 80,
+   "reviewers_count": null,
+   "runners_pct": 72,
+   "runners_count": null,
+   "disagreement": null,
+   "updated_at": "2026-10-17T03:00:52.718577+00:00"
+  },
+  {
+   "shoe_id": "74471df7-d61b-4a03-92f7-f5834445e591",
+   "rd_score": null,
+   "rd_verdict": null,
+   "reviewers_pct": 85,
+   "reviewers_count": null,
+   "runners_pct": 80,
+   "runners_count": null,
+   "disagreement": null,
+   "updated_at": "2026-10-17T03:00:52.718577+00:00"
+  },
+  {
+   "shoe_id": "a6656f24-c95e-407c-94e1-1eb470e73cbf",
+   "rd_score": 8.7,
+   "rd_verdict": null,
+   "reviewers_pct": 90,
+   "reviewers_count": null,
+   "runners_pct": 88,
+   "runners_count": null,
+   "disagreement": null,
+   "updated_at": "2026-10-17T03:00:52.718577+00:00"
+  },
+  {
+   "shoe_id": "87077be4-e3a2-41c9-a87b-391c7c969d45",
+   "rd_score": 8.5,
+   "rd_verdict": null,
+   "reviewers_pct": 88,
+   "reviewers_count": null,
+   "runners_pct": 91,
+   "runners_count": null,
+   "disagreement": null,
+   "updated_at": "2026-10-17T03:00:52.718577+00:00"
+  },
+  {
+   "shoe_id": "16a481c2-548d-4e4a-b027-d276c9cf0801",
+   "rd_score": 8.0,
+   "rd_verdict": null,
+   "reviewers_pct": 84,
+   "reviewers_count": null,
+   "runners_pct": 89,
+   "runners_count": null,
+   "disagreement": null,
+   "updated_at": "2026-10-17T03:00:52.718577+00:00"
+  }
+ ],
+ "editorial": [
+  {
+   "shoe_id": "abb0fdfa-475f-4469-95cd-2dd2cdedd5eb",
+   "dek": "Nike's marathon flagship, rebuilt: one continuous slab of ZoomX, Air Zoom pods pushed forward, and an Atomknit upper that finally stopped chewing feet. Lightest Alphafly to date, and the first one that makes sense at 5K.",
+   "colorway_label": "White / Volt / Barely Volt / Black \u00b7 IR1817-100",
+   "released_label": "Released Jan 4, 2024",
+   "release_date_label": "Jan 4, 2024",
+   "stack_label": "39 / 31",
+   "foam": "ZoomX",
+   "plate_label": "Full carbon",
+   "gallery": [
+    "shoes/NIKE_LAT.jpg",
+    "shoes/NIKE_MED.jpg",
+    "shoes/NIKE_OUT.jpg"
+   ],
+   "rd": {
+    "body": "The Alphafly 3 is a masterclass in race-day engineering. The continuous ZoomX midsole delivers smoother transitions than either predecessor, while the repositioned Air Zoom pods keep the bouncy signature that Alphafly loyalists want. At 7.7 oz it is 15% lighter than the Alphafly 2, which makes it a legitimate pick for 5K and 10K, not just the marathon. The Atomknit 3.0 upper solves the hot-spot problem of the earlier versions.",
+    "cite": "RUNNERDROPS TESTING TEAM",
+    "cons": [
+     "$305 is a lot of money",
+     "Less bouncy than Alphafly 1 and 2",
+     "Calves need time to adapt"
+    ],
+    "pros": [
+     "Lightest Alphafly ever at 7.7 oz",
+     "Smoother, more aggressive transitions",
+     "Upper no longer creates hot spots",
+     "Works from 5K to marathon",
+     "Outsole outlasts the Vaporfly's"
+    ],
+    "miles": "140 mi across 3 pairs",
+    "quote": "The most versatile Alphafly we've ever tested. It's no longer just a marathon shoe."
+   },
+   "reviewers": {
+    "neg": 3,
+    "neu": 6,
+    "pos": 91,
+    "count": "12 trusted sources",
+    "paras": [
+     {
+      "text": "Reviewers overwhelmingly call this Nike's best Alphafly. The continuous midsole and repositioned Air pods earn near-universal credit for faster, smoother transitions. RunRepeat's lab data shows the ZoomX + Air combination leading its energy-return tests, The Run Testers rank it at the top of the super-shoe pile for propulsion, and Believe in the Run says it holds up from 5K to the marathon.",
+      "label": "The consensus"
+     },
+     {
+      "text": "Lighter than ever, improved upper comfort, a more aggressive ride, and durability that beats most super shoes. Several reviewers now treat it as a real option for shorter races.",
+      "label": "Common praise"
+     },
+     {
+      "text": "The $305 price comes up in nearly every review. Some note the ride trades the springy sensation of previous Alphaflys for a faster, more efficient transition.",
+      "label": "Common criticism"
+     }
+    ],
+    "sources": [
+     "RunRepeat",
+     "The Run Testers",
+     "Believe in the Run",
+     "Solereview",
+     "Road Trail Run",
+     "Doctors of Running",
+     "Running Shoes Guru",
+     "Tom's Guide"
+    ]
+   },
+   "runners": {
+    "neg": 5,
+    "neu": 8,
+    "pos": 87,
+    "cite": "R/RUNNING USER, FIRST WEEK IN THE SHOE",
+    "count": "847 runner reviews",
+    "paras": [
+     {
+      "text": "Everyday runners on Reddit, Running Warehouse and YouTube are largely enthusiastic, and many report PRs across several distances. \"Cheat code\" comes up a lot. Runners feel faster in these, and say so.",
+      "label": "The crowd's take"
+     },
+     {
+      "text": "The propulsive feel, the weight drop from the Alphafly 2, and better comfort on long runs. Multiple Reddit threads credit the shoe for marathon PRs in the 2:30 to 3:30 range.",
+      "label": "What runners love"
+     },
+     {
+      "text": "Calf soreness is a recurring theme, especially for runners new to super shoes. The narrow fit comes up often; r/RunningShoeGeeks describes it as built for normal-to-narrow feet. Price and sell-outs at launch are the other pain points.",
+      "label": "Real-world concerns"
+     }
+    ],
+    "quote": "My calves ached for two days after my first 10-miler.",
+    "sources": [
+     "r/running",
+     "r/RunningShoeGeeks",
+     "Running Warehouse reviews",
+     "Fleet Feet reviews",
+     "YouTube comments",
+     "Strava community"
+    ]
+   },
+   "disagreements": [
+    {
+     "sub": "Is the snappier ride an upgrade?",
+     "topic": "Bounce vs. speed",
+     "experts": {
+      "who": "Consensus of 9 reviews",
+      "text": "The more aggressive, efficient transition is a step up from the bouncy Alphafly 1 and 2."
+     },
+     "runners": {
+      "who": "r/RunningShoeGeeks",
+      "text": "<q>I miss the springy feel of the original. This feels more like a Vaporfly now.</q> Runners with a loping gait notice it most."
+     }
+    },
+    {
+     "sub": "How much adaptation does it take?",
+     "topic": "Calf strain",
+     "experts": {
+      "who": "Doctors of Running, Believe in the Run",
+      "text": "Some adaptation required, but manageable for most trained runners."
+     },
+     "runners": {
+      "who": "r/running, Running Warehouse",
+      "text": "Calf soreness shows up constantly, especially from 3:30+ marathoners. Several runners describe multi-day soreness after their first long run."
+     }
+    },
+    {
+     "sub": "Who does this last work for?",
+     "topic": "Fit & sizing",
+     "experts": {
+      "who": "RunRepeat, Solereview",
+      "text": "True to size, with a much more comfortable upper than the Alphafly 2."
+     },
+     "runners": {
+      "who": "r/RunningShoeGeeks threads",
+      "text": "Wide-footers say the toe box does not work for them: built for normal-to-narrow feet with high arches, in their words."
+     }
+    }
+   ],
+   "retailers": [
+    {
+     "name": "Nike.com",
+     "price": "$305",
+     "status": "SELECT SIZES"
+    },
+    {
+     "name": "Running Warehouse",
+     "price": "$305",
+     "status": "IN STOCK"
+    },
+    {
+     "name": "Fleet Feet",
+     "price": "$305",
+     "status": "SOLD OUT"
+    }
+   ],
+   "other_colorways": [
+    {
+     "name": "Platinum Tint / Grey Fog",
+     "status": "DROPS OCT 3"
+    },
+    {
+     "name": "Laser Orange / Citron",
+     "status": "RELEASED"
+    }
+   ],
+   "updated_at": "2026-10-17T03:51:44.708742+00:00"
+  },
+  {
+   "shoe_id": "50d01b79-62ae-492e-b725-928d741b9ed7",
+   "dek": "A full reboot of the Pro 3: new Lightstrike Pro, a lighter and plusher ride, a LightLock upper that stops the irritation complaints, and 1.6 oz off the scale. Also narrower. That last part is where the arguments start.",
+   "colorway_label": "Cloud White / Iron Metallic / Solar Yellow \u00b7 KJ7036",
+   "released_label": "Released Oct 2024",
+   "release_date_label": "Oct 2024",
+   "stack_label": "39 / 33",
+   "foam": "Lightstrike Pro",
+   "plate_label": "EnergyRods 2.0",
+   "gallery": [
+    "shoes/ADI_LAT.jpg",
+    "shoes/ADI_MED.jpg",
+    "shoes/ADI_OUT.jpg"
+   ],
+   "rd": {
+    "queue": "QUEUE POSITION #4 \u00b7 212 REQUESTS SO FAR",
+    "empty_h": "We haven't run in this one yet.",
+    "empty_p": "It's in the testing queue. Until our review lands, the expert and runner tiers below are fully populated, and they disagree in interesting ways."
+   },
+   "reviewers": {
+    "neg": 5,
+    "neu": 7,
+    "pos": 88,
+    "count": "14 trusted sources",
+    "paras": [
+     {
+      "text": "Reviewers call the Pro 4 a significant upgrade on the Pro 3. RunRepeat's lab work finds the new Lightstrike Pro returning more energy with a lighter, plusher feel, The Run Testers rank it among the best carbon-plated racers available, and most reviews credit the LightLock upper with fixing the irritation problems of earlier versions.",
+      "label": "The consensus"
+     },
+     {
+      "text": "Softer and springier midsole, a big weight drop (7.1 oz vs 8.7 oz), better upper comfort, and value at $255 next to $300+ competitors. Road Trail Run describes it as a real marathon shoe that rewards running it fast.",
+      "label": "Common praise"
+     },
+     {
+      "text": "Narrower than the beloved Pro 3, especially in the toe box: RunRepeat measured 93.2 mm against 95.5 mm. Several reviewers warn heel strikers about the soft, narrow heel.",
+      "label": "Common criticism"
+     }
+    ],
+    "sources": [
+     "RunRepeat",
+     "The Run Testers",
+     "Believe in the Run",
+     "Solereview",
+     "Road Trail Run",
+     "Doctors of Running",
+     "Tom's Guide",
+     "Outside Online"
+    ]
+   },
+   "runners": {
+    "neg": 10,
+    "neu": 12,
+    "pos": 78,
+    "cite": "R/RUNNINGSHOEGEEKS USER, AFTER TWO HALF MARATHONS",
+    "count": "309 runner reviews",
+    "paras": [
+     {
+      "text": "Real runners are more divided than the experts. The pattern: unbelievably fast for shorter races, with real doubts about the full marathon and about anyone without a narrow foot.",
+      "label": "The crowd's take"
+     },
+     {
+      "text": "Speed, first and last. PRs at 10K and the half come up again and again, and the soft, springy foam gets consistent credit. One Reddit user ran 1:20:55 in the half and named the shoe.",
+      "label": "What runners love"
+     },
+     {
+      "text": "Calves. The soft heel and 6 mm drop get blamed repeatedly, and some runners say they couldn't finish a marathon in them. Wide-footers who loved the Pro 3 feel left behind, and toe rubbing on longer runs is a frequent note.",
+      "label": "Real-world concerns"
+     }
+    ],
+    "quote": "They destroy my calves. But they are very, very fast.",
+    "sources": [
+     "r/running",
+     "r/RunningShoeGeeks",
+     "r/AdvancedRunning",
+     "Running Warehouse reviews",
+     "Fleet Feet reviews",
+     "YouTube comments"
+    ]
+   },
+   "disagreements": [
+    {
+     "sub": "Or a 10K-to-half specialist?",
+     "topic": "Marathon shoe?",
+     "experts": {
+      "who": "Road Trail Run, The Run Testers",
+      "text": "Road Trail Run calls it a marathon workhorse; The Run Testers say it suits any race distance."
+     },
+     "runners": {
+      "who": "r/RunningShoeGeeks, r/AdvancedRunning",
+      "text": "<q>I don't think I could do a full marathon in them, to be honest.</q> The soft heel beats calves up over 26.2. Best at 10K to half."
+     }
+    },
+    {
+     "sub": "Tight but fine, or a step backward?",
+     "topic": "The fit",
+     "experts": {
+      "who": "Believe in the Run, Solereview",
+      "text": "Snug around the toes but manageable; stick with your usual US/EU size."
+     },
+     "runners": {
+      "who": "Running Warehouse reviews, r/running",
+      "text": "A major step back from the Pro 3's generous last. Runners who bought the Pro 3 for its width feel abandoned; RunRepeat's tape confirms the toe box shrank."
+     }
+    },
+    {
+     "sub": "Does it work on easy days?",
+     "topic": "Slow paces",
+     "experts": {
+      "who": "Believe in the Run",
+      "text": "Believe in the Run found the tech felt like overkill at a 4:25 marathon effort and preferred the unplated Evo SL for that pace."
+     },
+     "runners": {
+      "who": "r/running",
+      "text": "Agreed, for once. Loud and clunky when you slow down. The Pro 4 rewards speed and feels awkward on easy runs."
+     }
+    },
+    {
+     "sub": "Is it actually an upgrade?",
+     "topic": "Versus the Pro 3",
+     "experts": {
+      "who": "Consensus of 11 reviews",
+      "text": "Clear upgrade in foam, weight, and ride quality."
+     },
+     "runners": {
+      "who": "r/RunningShoeGeeks",
+      "text": "Pro 3 loyalists preferred the wider fit and more stable heel. For their feet, the \"upgrade\" removed the features that made the shoe special."
+     }
+    }
+   ],
+   "retailers": [
+    {
+     "name": "adidas.com",
+     "price": "$255",
+     "status": "IN STOCK"
+    },
+    {
+     "name": "Running Warehouse",
+     "price": "$255",
+     "status": "IN STOCK"
+    },
+    {
+     "name": "Fleet Feet",
+     "price": "$255",
+     "status": "SELECT SIZES"
+    }
+   ],
+   "other_colorways": [
+    {
+     "name": "Boston Marathon",
+     "status": "DROPS APR 2027"
+    },
+    {
+     "name": "Lucid Tangerine / Black",
+     "status": "RELEASED"
+    }
+   ],
+   "updated_at": "2026-10-17T03:51:44.708742+00:00"
+  }
+ ],
+ "prices": [
+  {
+   "id": "a8bbd551-0693-4848-8db0-1dad71c310f7",
+   "shoe_id": "16a481c2-548d-4e4a-b027-d276c9cf0801",
+   "retailer_id": null,
+   "observed_on": "2026-08-01",
+   "price_cents": 15000,
+   "label": "Aug 2026"
+  },
+  {
+   "id": "4739babd-dfe6-45f5-bff0-2e62c4515ab8",
+   "shoe_id": "70f69a3b-aac5-45af-a12e-5da0e59eb359",
+   "retailer_id": null,
+   "observed_on": "2026-09-24",
+   "price_cents": 26000,
+   "label": "Launch"
+  },
+  {
+   "id": "801ae8d9-712d-46f3-a76c-e49d1c84c156",
+   "shoe_id": "abb0fdfa-475f-4469-95cd-2dd2cdedd5eb",
+   "retailer_id": null,
+   "observed_on": "2026-06-01",
+   "price_cents": 28500,
+   "label": "Jun 2026"
+  },
+  {
+   "id": "22491743-7877-477d-805f-33aa95a7e274",
+   "shoe_id": "abb0fdfa-475f-4469-95cd-2dd2cdedd5eb",
+   "retailer_id": null,
+   "observed_on": "2026-09-01",
+   "price_cents": 30500,
+   "label": "Sep 2026"
+  }
+ ],
+ "lists": [
+  {
+   "id": "8b1710c2-cb9e-4042-81c6-9a2f50f2394e",
+   "slug": "best-daily-trainers-under-150",
+   "title": "Best daily trainers under $150",
+   "dek": null,
+   "use_case": "Under $150",
+   "published": false,
+   "updated_at": "2026-10-17T03:00:52.718577+00:00",
+   "entries": []
+  },
+  {
+   "id": "1b835bc0-9341-4266-b1cd-0ffde6bc790f",
+   "slug": "best-shoes-for-hyrox",
+   "title": "Best shoes for HYROX",
+   "dek": "Ranked for the 8K of running and the eight stations in between.",
+   "use_case": "HYROX",
+   "published": true,
+   "updated_at": "2026-10-17T03:00:52.718577+00:00",
+   "entries": [
+    {
+     "list_id": "1b835bc0-9341-4266-b1cd-0ffde6bc790f",
+     "shoe_id": "a6656f24-c95e-407c-94e1-1eb470e73cbf",
+     "rank": 1,
+     "blurb": "The default answer. Enough plate to push the 8K splits, enough rubber up front to hold a sled push. Runners rank it #1 for stations.",
+     "tags": [
+      "Sled push",
+      "8K run"
+     ],
+     "made_cut": true,
+     "shoe": {
+      "slug": "mach-x-3"
+     }
+    },
+    {
+     "list_id": "1b835bc0-9341-4266-b1cd-0ffde6bc790f",
+     "shoe_id": "87077be4-e3a2-41c9-a87b-391c7c969d45",
+     "rank": 2,
+     "blurb": "Unplated, which is the point: stable on the lateral stations and no calf tax on the burpee broad jumps. Best value here.",
+     "tags": [
+      "Burpee BJ",
+      "Lunges"
+     ],
+     "made_cut": true,
+     "shoe": {
+      "slug": "novablast-6"
+     }
+    },
+    {
+     "list_id": "1b835bc0-9341-4266-b1cd-0ffde6bc790f",
+     "shoe_id": "99fa759b-0ba2-4794-9a19-c68c4d66ec6f",
+     "rank": 3,
+     "blurb": "The racers' pick. Lightest plated shoe on the list, and the PWRPLATE is forgiving enough for farmer carries. Narrow heel though.",
+     "tags": [
+      "8K run",
+      "Carries"
+     ],
+     "made_cut": true,
+     "shoe": {
+      "slug": "fast-r-nitro-elite-3"
+     }
+    },
+    {
+     "list_id": "1b835bc0-9341-4266-b1cd-0ffde6bc790f",
+     "shoe_id": "1b681216-8c77-4e39-8160-cd2c3c642185",
+     "rank": 4,
+     "blurb": "More shoe than the Elite, less money. Wider platform than most carbon racers, which matters on the wall balls.",
+     "tags": [
+      "Wall balls",
+      "8K run"
+     ],
+     "made_cut": true,
+     "shoe": {
+      "slug": "endorphin-pro-4"
+     }
+    },
+    {
+     "list_id": "1b835bc0-9341-4266-b1cd-0ffde6bc790f",
+     "shoe_id": "50d01b79-62ae-492e-b725-928d741b9ed7",
+     "rank": 5,
+     "blurb": "Fast and soft, but the soft narrow heel is a liability on sled pull. Pro Solo and Elite 15 territory only.",
+     "tags": [
+      "8K run"
+     ],
+     "made_cut": true,
+     "shoe": {
+      "slug": "adizero-adios-pro-4"
+     }
+    },
+    {
+     "list_id": "1b835bc0-9341-4266-b1cd-0ffde6bc790f",
+     "shoe_id": "1339f4f1-0fc5-493b-a2ef-f9b86568fe33",
+     "rank": 6,
+     "blurb": "Reliable, widely available, and a known quantity. Outsole is the weak point on the SkiErg-to-sled transition.",
+     "tags": [
+      "8K run"
+     ],
+     "made_cut": true,
+     "shoe": {
+      "slug": "vaporfly-3"
+     }
+    },
+    {
+     "list_id": "1b835bc0-9341-4266-b1cd-0ffde6bc790f",
+     "shoe_id": "9a75d06d-c780-41c7-88b7-03b5f87bef57",
+     "rank": 7,
+     "blurb": "Grippy and stable, but the price and low drop make it a hard sell for a station race.",
+     "tags": [
+      "Sled pull"
+     ],
+     "made_cut": true,
+     "shoe": {
+      "slug": "cloudboom-strike-ls"
+     }
+    },
+    {
+     "list_id": "1b835bc0-9341-4266-b1cd-0ffde6bc790f",
+     "shoe_id": "f8915c9d-5d93-4bb3-913c-a44752d2ee94",
+     "rank": 8,
+     "blurb": "Low 4 mm drop and a firm platform. Good for midfoot strikers, divisive for everyone else.",
+     "tags": [
+      "Rowing"
+     ],
+     "made_cut": true,
+     "shoe": {
+      "slug": "sc-elite-v5"
+     }
+    },
+    {
+     "list_id": "1b835bc0-9341-4266-b1cd-0ffde6bc790f",
+     "shoe_id": "abb0fdfa-475f-4469-95cd-2dd2cdedd5eb",
+     "rank": 9,
+     "blurb": "Our 9.2, but the Air pods are a liability on the sled push and burpees. Marathon shoe, not a HYROX shoe.",
+     "tags": [],
+     "made_cut": false,
+     "shoe": {
+      "slug": "alphafly-3"
+     }
+    },
+    {
+     "list_id": "1b835bc0-9341-4266-b1cd-0ffde6bc790f",
+     "shoe_id": "dc8c4d75-061f-4626-97b5-71ba98b9ed6c",
+     "rank": 10,
+     "blurb": "Too much stack for the lateral stations. Great on the road, unstable on the carpet.",
+     "tags": [],
+     "made_cut": false,
+     "shoe": {
+      "slug": "cielo-x1-2"
+     }
+    }
+   ]
+  },
+  {
+   "id": "28d422a9-ce21-447b-b687-daa5be17df82",
+   "slug": "best-trail-running-shoes",
+   "title": "Best trail running shoes",
+   "dek": null,
+   "use_case": "Trail",
+   "published": false,
+   "updated_at": "2026-10-17T03:00:52.718577+00:00",
+   "entries": []
+  }
+ ]
+}

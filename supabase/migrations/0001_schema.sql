@@ -12,7 +12,7 @@ create type release_status  as enum ('rumored','confirmed','released','sold_out'
 create type subscriber_status as enum ('pending','active','stopped');
 
 -- ---------- updated_at helper ----------
-create or replace function set_updated_at() returns trigger language plpgsql as $$
+create or replace function set_updated_at() returns trigger language plpgsql set search_path = public as $$
 begin new.updated_at = now(); return new; end $$;
 
 -- ---------- brands ----------
@@ -217,7 +217,7 @@ create table sms_messages (
 );
 
 -- ---------- views the site reads ----------
-create view v_calendar as
+create view v_calendar with (security_invoker = on) as
 select r.id, r.release_date, r.release_time, r.tz, r.window_label, r.kind, r.status,
        r.price_cents, r.is_lead_drop, r.source, r.note,
        s.id as shoe_id, s.slug as shoe_slug, s.name as shoe_name, s.category, s.image_path as shoe_image,
@@ -230,7 +230,7 @@ join shoes s on s.id = r.shoe_id
 join brands b on b.id = s.brand_id
 left join colorways c on c.id = r.colorway_id;
 
-create view v_shoe_cards as
+create view v_shoe_cards with (security_invoker = on) as
 select s.id, s.slug, s.name, s.category, s.status, s.msrp_cents, s.weight_oz, s.drop_mm, s.plate, s.image_path,
        b.slug as brand_slug, b.name as brand_name,
        sr.rd_score, sr.reviewers_pct, sr.runners_pct,

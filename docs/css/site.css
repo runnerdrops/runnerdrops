@@ -539,3 +539,17 @@ img{display:block;max-width:100%}
 .concepts .dev a:last-child{border-right:none}
 .concepts .dev a.is-on{background:var(--paper);color:var(--ink)}
 .mock{opacity:.9}
+
+/* ===== mobile overflow guards (data-driven pages can carry longer text than the mock did) ===== */
+.fp__grid>*,.fp__reviews,.rev,.rev__b,.twocol>*,.ledger,.lrow,.lrow .n,.nextup,.calrail,.bwrap>*,.listwrap>*,.dbwrap>*{min-width:0}
+.lrow .n small{white-space:normal;overflow-wrap:anywhere}
+.lrow .n a{overflow-wrap:anywhere}
+.kick{flex-wrap:wrap}
+.nextup__row,.rrow{text-decoration:none;color:inherit}
+@media(max-width:720px){
+  .shead{flex-wrap:wrap}.shead .no{white-space:normal}
+  .rev{grid-template-columns:1fr}.rev .pic{aspect-ratio:16/9;border-right:none;border-bottom:var(--bw) solid var(--ink)}
+  .scores>div{padding:6px 6px}.scores b{font-size:18px}
+}
+.scores{grid-template-columns:repeat(3,minmax(0,1fr))}.scores>div{min-width:0;overflow:hidden}
+@media(max-width:720px){.scores h5{letter-spacing:.06em;font-size:8px}}
