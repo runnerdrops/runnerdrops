@@ -53,7 +53,7 @@ for r in releases:
     r['date'] = d(r['release_date'])
     r['shoe'] = shoe_by_id[r['shoe_id']]
     r['shoe']['releases'].append(r)
-    r['upcoming'] = r['date'] is None or r['date'] >= TODAY
+    r['upcoming'] = (r['date'] >= TODAY) if r['date'] else r['status'] not in ('released', 'sold_out', 'cancelled')   # undated = upcoming unless it already happened
 upcoming = [r for r in releases if r['upcoming']]
 dated_upcoming = [r for r in upcoming if r['date']]
 
