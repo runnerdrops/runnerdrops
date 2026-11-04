@@ -1,6 +1,6 @@
 {
  "meta": {
-  "fetched_at": "2026-11-03T23:17:19Z",
+  "fetched_at": "2026-11-04T01:26:37Z",
   "media_base": "https://ktqligbqigndccaeygvi.supabase.co/storage/v1/object/public/media/"
  },
  "brands": [
@@ -256,16 +256,38 @@
    "slug": "alphafly-4",
    "name": "Alphafly 4",
    "category": "racing",
-   "status": "rumored",
-   "msrp_cents": 31000,
-   "weight_oz": null,
-   "drop_mm": null,
+   "status": "released",
+   "msrp_cents": 28000,
+   "weight_oz": 6.6,
+   "drop_mm": 8.0,
    "plate": "Carbon",
    "stack_mm": null,
-   "image_path": "shoes/AF4_SQ.jpg",
-   "summary": null,
+   "image_path": "shoes/nike-alphafly-4-IU4686-002.png",
+   "summary": "A wide carbon fiber Flyplate unlocks a propulsive sensation while maintaining the stability you need to go the distance. More energy return with less weight thanks to an updated Air Zoom unit and ZoomX LT foam.",
    "created_at": "2026-10-17T03:00:52.718577+00:00",
-   "updated_at": "2026-10-17T03:00:52.718577+00:00",
+   "updated_at": "2026-11-04T01:25:58.364205+00:00",
+   "brand": {
+    "name": "Nike",
+    "slug": "nike",
+    "wordmark": "Nike"
+   }
+  },
+  {
+   "id": "ad39a6d6-8ec9-4691-aead-9bc070a00fe7",
+   "brand_id": "1c54c040-c820-42f2-8c1e-af8c36a88d4d",
+   "slug": "apex",
+   "name": "Apex",
+   "category": "racing",
+   "status": "upcoming",
+   "msrp_cents": 36000,
+   "weight_oz": 6.2,
+   "drop_mm": 0.0,
+   "plate": "Carbon",
+   "stack_mm": null,
+   "image_path": "shoes/nike-apex-IU2397-001.png",
+   "summary": "Nike removed the sockliner and built a zero-drop midsole with the maximum cushioning height allowed in racing. Ultra-responsive and ultralight ZoomX LT foam delivers Nike's highest energy return, with a new inverse-wave carbon Flyplate tuned to work with the Air Zoom units.",
+   "created_at": "2026-11-04T01:25:58.364205+00:00",
+   "updated_at": "2026-11-04T01:25:58.364205+00:00",
    "brand": {
     "name": "Nike",
     "slug": "nike",
@@ -581,6 +603,28 @@
    }
   },
   {
+   "id": "ec5dcb33-7c2b-40fa-a5e6-b40141bd1b8e",
+   "brand_id": "1c54c040-c820-42f2-8c1e-af8c36a88d4d",
+   "slug": "streakfly-2",
+   "name": "Streakfly 2",
+   "category": "racing",
+   "status": "released",
+   "msrp_cents": 19000,
+   "weight_oz": 5.1,
+   "drop_mm": 4.0,
+   "plate": "Carbon",
+   "stack_mm": null,
+   "image_path": "shoes/nike-streakfly-2-IV4086-001.png",
+   "summary": "Built to out-kick the opposition on race day: a carbon fiber Flyplate, an ultra-responsive ZoomX midsole and a minimal upper, for the mile up to the 10K.",
+   "created_at": "2026-11-04T01:25:58.364205+00:00",
+   "updated_at": "2026-11-04T01:25:58.364205+00:00",
+   "brand": {
+    "name": "Nike",
+    "slug": "nike",
+    "wordmark": "Nike"
+   }
+  },
+  {
    "id": "1339f4f1-0fc5-493b-a2ef-f9b86568fe33",
    "brand_id": "1c54c040-c820-42f2-8c1e-af8c36a88d4d",
    "slug": "vaporfly-3",
@@ -608,16 +652,38 @@
    "slug": "vaporfly-4",
    "name": "Vaporfly 4",
    "category": "racing",
-   "status": "upcoming",
-   "msrp_cents": 26000,
-   "weight_oz": 6.5,
+   "status": "released",
+   "msrp_cents": 28000,
+   "weight_oz": 6.7,
    "drop_mm": 6.0,
    "plate": "Carbon",
    "stack_mm": null,
-   "image_path": "shoes/VF4_SQ.jpg",
-   "summary": null,
+   "image_path": "shoes/nike-vaporfly-4-IR0078-100.png",
+   "summary": "Nike's most resilient foam just got a little better. The midsole design saves weight and unlocks even more energy return by reducing foam where it isn't needed.",
    "created_at": "2026-10-17T03:00:52.718577+00:00",
-   "updated_at": "2026-10-17T03:00:52.718577+00:00",
+   "updated_at": "2026-11-04T01:25:58.364205+00:00",
+   "brand": {
+    "name": "Nike",
+    "slug": "nike",
+    "wordmark": "Nike"
+   }
+  },
+  {
+   "id": "8b0a77ec-f067-48d5-b78b-bb0f2963072d",
+   "brand_id": "1c54c040-c820-42f2-8c1e-af8c36a88d4d",
+   "slug": "vomero-plus",
+   "name": "Vomero Plus",
+   "category": "daily_trainer",
+   "status": "released",
+   "msrp_cents": 19000,
+   "weight_oz": 8.5,
+   "drop_mm": 10.0,
+   "plate": null,
+   "stack_mm": null,
+   "image_path": "shoes/nike-vomero-plus-IR7193-400.png",
+   "summary": "Max-cushion daily trainer on a full-length ZoomX midsole.",
+   "created_at": "2026-11-04T01:25:58.364205+00:00",
+   "updated_at": "2026-11-04T01:25:58.364205+00:00",
    "brand": {
     "name": "Nike",
     "slug": "nike",
@@ -644,6 +710,28 @@
     "name": "Mizuno",
     "slug": "mizuno",
     "wordmark": "Mizuno"
+   }
+  },
+  {
+   "id": "d86aa876-8a2c-49fb-85cf-2ee8c08c4d4c",
+   "brand_id": "1c54c040-c820-42f2-8c1e-af8c36a88d4d",
+   "slug": "zoom-fly-6",
+   "name": "Zoom Fly 6",
+   "category": "super_trainer",
+   "status": "released",
+   "msrp_cents": 18000,
+   "weight_oz": 9.3,
+   "drop_mm": 8.0,
+   "plate": "Carbon",
+   "stack_mm": null,
+   "image_path": "shoes/nike-zoom-fly-6-IV4083-001.png",
+   "summary": "Lighter than its predecessor and reimagined to deliver the cushioning and responsiveness runners need for daily training and race day.",
+   "created_at": "2026-11-04T01:25:58.364205+00:00",
+   "updated_at": "2026-11-04T01:25:58.364205+00:00",
+   "brand": {
+    "name": "Nike",
+    "slug": "nike",
+    "wordmark": "Nike"
    }
   }
  ],
@@ -695,6 +783,78 @@
    "sku": null,
    "image_path": null,
    "created_at": "2026-10-17T03:00:52.718577+00:00"
+  },
+  {
+   "id": "fb5ddf85-86ef-40c1-87da-b7dcb90df054",
+   "shoe_id": "ebc1395c-0df8-4f5c-be90-8fc08ed13f46",
+   "name": "Sea Glass / Laser Crimson",
+   "sku": "IU4686-002",
+   "image_path": "shoes/nike-alphafly-4-IU4686-002.png",
+   "created_at": "2026-11-04T01:25:58.364205+00:00"
+  },
+  {
+   "id": "1129eb14-abe2-4377-8ae7-abebfdbd63f8",
+   "shoe_id": "ebc1395c-0df8-4f5c-be90-8fc08ed13f46",
+   "name": "Total Orange / Hyper Crimson",
+   "sku": "IM5546-800",
+   "image_path": "shoes/nike-alphafly-4-IM5546-800.png",
+   "created_at": "2026-11-04T01:25:58.364205+00:00"
+  },
+  {
+   "id": "4fd1a3a1-14a7-4381-b42c-dc04716d6baa",
+   "shoe_id": "ad39a6d6-8ec9-4691-aead-9bc070a00fe7",
+   "name": "Black / Bright Crimson / Volt",
+   "sku": "IU2397-001",
+   "image_path": "shoes/nike-apex-IU2397-001.png",
+   "created_at": "2026-11-04T01:25:58.364205+00:00"
+  },
+  {
+   "id": "438349ea-03db-4074-ae78-e59cdd6414c8",
+   "shoe_id": "70f69a3b-aac5-45af-a12e-5da0e59eb359",
+   "name": "Sail / Phantom / University Red",
+   "sku": "IR0078-100",
+   "image_path": "shoes/nike-vaporfly-4-IR0078-100.png",
+   "created_at": "2026-11-04T01:25:58.364205+00:00"
+  },
+  {
+   "id": "ce779952-69c3-4b8b-8809-ead1d1cfd925",
+   "shoe_id": "70f69a3b-aac5-45af-a12e-5da0e59eb359",
+   "name": "White / Energy / Vivid Purple",
+   "sku": "HF6412-102",
+   "image_path": null,
+   "created_at": "2026-11-04T01:25:58.364205+00:00"
+  },
+  {
+   "id": "ece5690a-d927-4286-9edd-ed58ca49e512",
+   "shoe_id": "d86aa876-8a2c-49fb-85cf-2ee8c08c4d4c",
+   "name": "SE Black / Smoke Grey",
+   "sku": "IV4083-001",
+   "image_path": "shoes/nike-zoom-fly-6-IV4083-001.png",
+   "created_at": "2026-11-04T01:25:58.364205+00:00"
+  },
+  {
+   "id": "8925b503-f261-4b29-bdf2-8d9546fc0b32",
+   "shoe_id": "ec5dcb33-7c2b-40fa-a5e6-b40141bd1b8e",
+   "name": "SE Black / Smoke Grey",
+   "sku": "IV4086-001",
+   "image_path": "shoes/nike-streakfly-2-IV4086-001.png",
+   "created_at": "2026-11-04T01:25:58.364205+00:00"
+  },
+  {
+   "id": "328e5c02-39e0-4e9d-b62c-da51753fff96",
+   "shoe_id": "8b0a77ec-f067-48d5-b78b-bb0f2963072d",
+   "name": "Keely Hodgkinson",
+   "sku": "IR7193-400",
+   "image_path": "shoes/nike-vomero-plus-IR7193-400.png",
+   "created_at": "2026-11-04T01:25:58.364205+00:00"
+  },
+  {
+   "id": "5f5cb8d9-dcce-414d-9ac0-9201f50e2acf",
+   "shoe_id": "16a481c2-548d-4e4a-b027-d276c9cf0801",
+   "name": "Keely Hodgkinson",
+   "sku": "IR7192-001",
+   "image_path": "shoes/nike-pegasus-42-IR7192-001.png",
+   "created_at": "2026-11-04T01:25:58.364205+00:00"
   }
  ],
  "retailers": [
@@ -1183,9 +1343,9 @@
    "shoe_slug": "vaporfly-4",
    "shoe_name": "Vaporfly 4",
    "category": "racing",
-   "shoe_image": "shoes/VF4_SQ.jpg",
+   "shoe_image": "shoes/nike-vaporfly-4-IR0078-100.png",
    "colorway": "Volt",
-   "image_path": "shoes/VF4_SQ.jpg",
+   "image_path": "shoes/nike-vaporfly-4-IR0078-100.png",
    "brand_slug": "nike",
    "brand_name": "Nike",
    "retailers": [
@@ -1307,23 +1467,79 @@
    "release_date": null,
    "release_time": null,
    "tz": "America/New_York",
-   "window_label": "Nov 2026",
+   "window_label": "Oct 2026",
    "kind": "launch",
-   "status": "rumored",
-   "price_cents": 31000,
+   "status": "released",
+   "price_cents": 28000,
    "is_lead_drop": false,
-   "source": "athlete samples at Berlin",
+   "source": "Nike.com",
+   "note": "Listed \"Just In\" on Nike.com",
+   "shoe_id": "ebc1395c-0df8-4f5c-be90-8fc08ed13f46",
+   "shoe_slug": "alphafly-4",
+   "shoe_name": "Alphafly 4",
+   "category": "racing",
+   "shoe_image": "shoes/nike-alphafly-4-IU4686-002.png",
+   "colorway": "Sea Glass / Laser Crimson",
+   "image_path": "shoes/nike-alphafly-4-IU4686-002.png",
+   "brand_slug": "nike",
+   "brand_name": "Nike",
+   "retailers": null
+  },
+  {
+   "id": "31d9d2ee-2e40-4168-9612-d0d4a4c8125e",
+   "release_date": null,
+   "release_time": null,
+   "tz": "America/New_York",
+   "window_label": "Coming soon",
+   "kind": "colorway",
+   "status": "confirmed",
+   "price_cents": 28000,
+   "is_lead_drop": false,
+   "source": "Nike.com listing",
    "note": null,
    "shoe_id": "ebc1395c-0df8-4f5c-be90-8fc08ed13f46",
    "shoe_slug": "alphafly-4",
    "shoe_name": "Alphafly 4",
    "category": "racing",
-   "shoe_image": "shoes/AF4_SQ.jpg",
-   "colorway": null,
-   "image_path": "shoes/AF4_SQ.jpg",
+   "shoe_image": "shoes/nike-alphafly-4-IU4686-002.png",
+   "colorway": "Total Orange / Hyper Crimson",
+   "image_path": "shoes/nike-alphafly-4-IM5546-800.png",
    "brand_slug": "nike",
    "brand_name": "Nike",
-   "retailers": null
+   "retailers": [
+    {
+     "name": "Nike.com",
+     "url": "https://www.nike.com/t/alphafly-4-mens-road-racing-shoes-nDI0qqhc/IM5546-800"
+    }
+   ]
+  },
+  {
+   "id": "b5744178-8cc4-4885-9170-8d7aedf5a19e",
+   "release_date": null,
+   "release_time": null,
+   "tz": "America/New_York",
+   "window_label": "Coming soon",
+   "kind": "launch",
+   "status": "confirmed",
+   "price_cents": 36000,
+   "is_lead_drop": false,
+   "source": "Nike.com listing",
+   "note": null,
+   "shoe_id": "ad39a6d6-8ec9-4691-aead-9bc070a00fe7",
+   "shoe_slug": "apex",
+   "shoe_name": "Apex",
+   "category": "racing",
+   "shoe_image": "shoes/nike-apex-IU2397-001.png",
+   "colorway": "Black / Bright Crimson / Volt",
+   "image_path": "shoes/nike-apex-IU2397-001.png",
+   "brand_slug": "nike",
+   "brand_name": "Nike",
+   "retailers": [
+    {
+     "name": "Nike.com",
+     "url": "https://www.nike.com/t/apex-road-racing-shoes-9r6ez2CL/IU2397-001"
+    }
+   ]
   }
  ],
  "ratings": [
@@ -1821,6 +2037,50 @@
     }
    ],
    "updated_at": "2026-10-17T03:51:44.708742+00:00"
+  },
+  {
+   "shoe_id": "ebc1395c-0df8-4f5c-be90-8fc08ed13f46",
+   "dek": null,
+   "colorway_label": "Sea Glass / Laser Crimson / Phantom / Burgundy Ash \u00b7 IU4686-002",
+   "released_label": "Released Oct 2026",
+   "release_date_label": null,
+   "stack_label": null,
+   "foam": "ZoomX LT + Air Zoom",
+   "plate_label": "Full carbon Flyplate",
+   "gallery": [
+    "shoes/nike-alphafly-4-IU4686-002.png",
+    "shoes/nike-alphafly-4-IU4686-002-2.png",
+    "shoes/nike-alphafly-4-IU4686-002-3.png"
+   ],
+   "rd": null,
+   "reviewers": null,
+   "runners": null,
+   "disagreements": null,
+   "retailers": null,
+   "other_colorways": null,
+   "updated_at": "2026-11-04T01:26:11.140416+00:00"
+  },
+  {
+   "shoe_id": "ad39a6d6-8ec9-4691-aead-9bc070a00fe7",
+   "dek": null,
+   "colorway_label": "Black / Bright Crimson / Volt / White \u00b7 IU2397-001",
+   "released_label": "Coming soon",
+   "release_date_label": null,
+   "stack_label": null,
+   "foam": "ZoomX LT + Air Zoom",
+   "plate_label": "Inverse-wave carbon Flyplate",
+   "gallery": [
+    "shoes/nike-apex-IU2397-001.png",
+    "shoes/nike-apex-IU2397-001-2.png",
+    "shoes/nike-apex-IU2397-001-3.png"
+   ],
+   "rd": null,
+   "reviewers": null,
+   "runners": null,
+   "disagreements": null,
+   "retailers": null,
+   "other_colorways": null,
+   "updated_at": "2026-11-04T01:26:11.140416+00:00"
   }
  ],
  "prices": [
@@ -1833,12 +2093,28 @@
    "label": "Aug 2026"
   },
   {
+   "id": "b4392184-bef5-4197-97bb-765fdd9882bd",
+   "shoe_id": "16a481c2-548d-4e4a-b027-d276c9cf0801",
+   "retailer_id": "190dfac8-66ef-4f24-9db4-5f76d763c1b3",
+   "observed_on": "2026-11-03",
+   "price_cents": 13197,
+   "label": "KH edition \u00b7 15% off"
+  },
+  {
    "id": "4739babd-dfe6-45f5-bff0-2e62c4515ab8",
    "shoe_id": "70f69a3b-aac5-45af-a12e-5da0e59eb359",
-   "retailer_id": null,
-   "observed_on": "2026-09-24",
-   "price_cents": 26000,
+   "retailer_id": "190dfac8-66ef-4f24-9db4-5f76d763c1b3",
+   "observed_on": "2026-02-01",
+   "price_cents": 28000,
    "label": "Launch"
+  },
+  {
+   "id": "532d6bbf-53c2-4d0b-8c5e-a1c5dae3c755",
+   "shoe_id": "70f69a3b-aac5-45af-a12e-5da0e59eb359",
+   "retailer_id": "190dfac8-66ef-4f24-9db4-5f76d763c1b3",
+   "observed_on": "2026-11-03",
+   "price_cents": 22597,
+   "label": "Nike.com \u00b7 19% off"
   },
   {
    "id": "801ae8d9-712d-46f3-a76c-e49d1c84c156",
@@ -1855,6 +2131,22 @@
    "observed_on": "2026-09-01",
    "price_cents": 30500,
    "label": "Sep 2026"
+  },
+  {
+   "id": "fc567e30-0a0b-46d4-8659-c1078e446773",
+   "shoe_id": "ad39a6d6-8ec9-4691-aead-9bc070a00fe7",
+   "retailer_id": "190dfac8-66ef-4f24-9db4-5f76d763c1b3",
+   "observed_on": "2026-11-03",
+   "price_cents": 36000,
+   "label": "Announced"
+  },
+  {
+   "id": "d6cd744e-a467-4113-b27a-804195e19d66",
+   "shoe_id": "ebc1395c-0df8-4f5c-be90-8fc08ed13f46",
+   "retailer_id": "190dfac8-66ef-4f24-9db4-5f76d763c1b3",
+   "observed_on": "2026-11-03",
+   "price_cents": 28000,
+   "label": "Launch"
   }
  ],
  "lists": [
