@@ -1,6 +1,6 @@
 {
  "meta": {
-  "fetched_at": "2026-11-05T18:42:06Z",
+  "fetched_at": "2026-11-06T00:11:33Z",
   "media_base": "https://ktqligbqigndccaeygvi.supabase.co/storage/v1/object/public/media/"
  },
  "brands": [
@@ -207,6 +207,28 @@
  ],
  "shoes": [
   {
+   "id": "53e5c841-d415-42b8-92d5-617d7578c20e",
+   "brand_id": "d8e4e622-ed04-4c31-88a4-b6a49e705a95",
+   "slug": "adizero-adios-9",
+   "name": "Adizero Adios 9",
+   "category": "racing",
+   "status": "released",
+   "msrp_cents": 14000,
+   "weight_oz": 5.1,
+   "drop_mm": 7.0,
+   "plate": null,
+   "stack_mm": null,
+   "image_path": "shoes/adidas-adios-9-KH8897.jpg",
+   "summary": "The lightweight racing flat: resilient LightstrikePro cushioning, a stretch-mesh upper with a locked-in feel, and a Continental outsole for grip.",
+   "created_at": "2026-11-06T00:10:05.765682+00:00",
+   "updated_at": "2026-11-06T00:10:05.765682+00:00",
+   "brand": {
+    "name": "adidas",
+    "slug": "adidas",
+    "wordmark": "adidas"
+   }
+  },
+  {
    "id": "50d01b79-62ae-492e-b725-928d741b9ed7",
    "brand_id": "d8e4e622-ed04-4c31-88a4-b6a49e705a95",
    "slug": "adizero-adios-pro-4",
@@ -222,6 +244,116 @@
    "summary": null,
    "created_at": "2026-10-17T03:00:52.718577+00:00",
    "updated_at": "2026-10-17T03:00:52.718577+00:00",
+   "brand": {
+    "name": "adidas",
+    "slug": "adidas",
+    "wordmark": "adidas"
+   }
+  },
+  {
+   "id": "056127ce-e472-48f0-8132-1f359ca2c6a9",
+   "brand_id": "d8e4e622-ed04-4c31-88a4-b6a49e705a95",
+   "slug": "adizero-adios-pro-5",
+   "name": "Adizero Adios Pro 5",
+   "category": "racing",
+   "status": "released",
+   "msrp_cents": 27500,
+   "weight_oz": 6.3,
+   "drop_mm": 9.0,
+   "plate": "EnergyRim (carbon)",
+   "stack_mm": null,
+   "image_path": "shoes/adidas-adios-pro-5-KJ7040.jpg",
+   "summary": "Built for marathon road racing: a Lightlock 2.0 one-way-stretch upper, a LightstrikePro midsole and carbon-fiber Energyrim technology for super-light cushioning and energy return, on a Lighttraxion outsole with a Continental rubber section.",
+   "created_at": "2026-11-06T00:10:05.765682+00:00",
+   "updated_at": "2026-11-06T00:10:05.765682+00:00",
+   "brand": {
+    "name": "adidas",
+    "slug": "adidas",
+    "wordmark": "adidas"
+   }
+  },
+  {
+   "id": "c07d61f5-f0b3-421b-839b-af0075cc0e86",
+   "brand_id": "d8e4e622-ed04-4c31-88a4-b6a49e705a95",
+   "slug": "adizero-adios-pro-evo-3",
+   "name": "Adizero Adios Pro Evo 3",
+   "category": "racing",
+   "status": "released",
+   "msrp_cents": 50000,
+   "weight_oz": 3.4,
+   "drop_mm": 4.0,
+   "plate": "Carbon",
+   "stack_mm": null,
+   "image_path": "shoes/adidas-adios-pro-evo-3-KH7678.jpg",
+   "summary": "adidas' first sub-100-gram supershoe, built on next-gen Lightstrike Pro Evo foam. Debuted at the 2026 London Marathon, where Sabastian Sawe broke two hours in an official race. T3 Product of the Year 2026.",
+   "created_at": "2026-11-06T00:10:05.765682+00:00",
+   "updated_at": "2026-11-06T00:10:05.765682+00:00",
+   "brand": {
+    "name": "adidas",
+    "slug": "adidas",
+    "wordmark": "adidas"
+   }
+  },
+  {
+   "id": "cddd4e17-729a-429b-aa82-e36d33519ea6",
+   "brand_id": "d8e4e622-ed04-4c31-88a4-b6a49e705a95",
+   "slug": "adizero-boston-13",
+   "name": "Adizero Boston 13",
+   "category": "super_trainer",
+   "status": "released",
+   "msrp_cents": 16000,
+   "weight_oz": 9.2,
+   "drop_mm": 6.0,
+   "plate": "Energyrods (glass fiber)",
+   "stack_mm": null,
+   "image_path": "shoes/adidas-boston-13-KI4776.jpg",
+   "summary": "LightstrikePro over responsive Lightstrike foam with glass-fiber Energyrods for a smooth, stable heel-to-toe transition, on a weight-saving Lighttraxion outsole.",
+   "created_at": "2026-11-06T00:10:05.765682+00:00",
+   "updated_at": "2026-11-06T00:10:05.765682+00:00",
+   "brand": {
+    "name": "adidas",
+    "slug": "adidas",
+    "wordmark": "adidas"
+   }
+  },
+  {
+   "id": "36f72dac-3806-4d61-9a50-c8ed112ee1f5",
+   "brand_id": "d8e4e622-ed04-4c31-88a4-b6a49e705a95",
+   "slug": "adizero-evo-sl",
+   "name": "Adizero Evo SL",
+   "category": "daily_trainer",
+   "status": "released",
+   "msrp_cents": 15000,
+   "weight_oz": 8.3,
+   "drop_mm": 7.0,
+   "plate": null,
+   "stack_mm": null,
+   "image_path": "shoes/adidas-evo-sl-KI1491.jpg",
+   "summary": "Inspired by the record-breaking Evo 1: a full LightstrikePro midsole with no plate, a breathable textile upper and a rubber outsole, built for training and racing alike.",
+   "created_at": "2026-11-06T00:10:05.765682+00:00",
+   "updated_at": "2026-11-06T00:10:05.765682+00:00",
+   "brand": {
+    "name": "adidas",
+    "slug": "adidas",
+    "wordmark": "adidas"
+   }
+  },
+  {
+   "id": "e3ad9b25-fd3e-4b6a-ba61-939d0ce946ac",
+   "brand_id": "d8e4e622-ed04-4c31-88a4-b6a49e705a95",
+   "slug": "adizero-sl-2",
+   "name": "Adizero SL 2",
+   "category": "daily_trainer",
+   "status": "released",
+   "msrp_cents": 13000,
+   "weight_oz": 8.4,
+   "drop_mm": 10.0,
+   "plate": null,
+   "stack_mm": null,
+   "image_path": "shoes/adidas-sl-2-JQ0354.jpg",
+   "summary": "Layered Lightstrike Pro and Lightstrike 2.0 midsole for daily speed, with a breathable mono-mesh upper and an Adiwear outsole for durability.",
+   "created_at": "2026-11-06T00:10:05.765682+00:00",
+   "updated_at": "2026-11-06T00:10:05.765682+00:00",
    "brand": {
     "name": "adidas",
     "slug": "adidas",
@@ -855,6 +987,102 @@
    "sku": "IR7192-001",
    "image_path": "shoes/nike-pegasus-42-IR7192-001.png",
    "created_at": "2026-11-04T01:25:58.364205+00:00"
+  },
+  {
+   "id": "c823a17a-3b36-4329-b31c-104e3bcd9d47",
+   "shoe_id": "056127ce-e472-48f0-8132-1f359ca2c6a9",
+   "name": "Clear Sky / Carbon / Silver Metallic",
+   "sku": "KJ7040",
+   "image_path": "shoes/adidas-adios-pro-5-KJ7040.jpg",
+   "created_at": "2026-11-06T00:10:05.765682+00:00"
+  },
+  {
+   "id": "634f21a6-3370-4597-aea7-1f897bc88946",
+   "shoe_id": "056127ce-e472-48f0-8132-1f359ca2c6a9",
+   "name": "Off White / Collegiate Green / Royal Blue",
+   "sku": "KJ7039",
+   "image_path": "shoes/adidas-adios-pro-5-KJ7039.jpg",
+   "created_at": "2026-11-06T00:10:05.765682+00:00"
+  },
+  {
+   "id": "7341c57b-5a92-49a8-9ee2-7822f3e98b4e",
+   "shoe_id": "c07d61f5-f0b3-421b-839b-af0075cc0e86",
+   "name": "Cloud White / Core Black / Solar Turbo",
+   "sku": "KH7678",
+   "image_path": "shoes/adidas-adios-pro-evo-3-KH7678.jpg",
+   "created_at": "2026-11-06T00:10:05.765682+00:00"
+  },
+  {
+   "id": "726922bf-c0fa-4f78-b766-fa9cdb8f6263",
+   "shoe_id": "50d01b79-62ae-492e-b725-928d741b9ed7",
+   "name": "Off White / Light Blue / Bright Red",
+   "sku": "KH7344",
+   "image_path": "shoes/adidas-adios-pro-4-KH7344.jpg",
+   "created_at": "2026-11-06T00:10:05.765682+00:00"
+  },
+  {
+   "id": "07de9a9e-098a-4fa8-a5db-da55adf8a03e",
+   "shoe_id": "50d01b79-62ae-492e-b725-928d741b9ed7",
+   "name": "Cloud White / Iron Metallic / Pulse Mint",
+   "sku": "KI1471",
+   "image_path": null,
+   "created_at": "2026-11-06T00:10:05.765682+00:00"
+  },
+  {
+   "id": "5db9c68b-2616-46b9-8d4a-b8c4c70df885",
+   "shoe_id": "cddd4e17-729a-429b-aa82-e36d33519ea6",
+   "name": "Clear Sky / Carbon / Silver Metallic",
+   "sku": "KI4776",
+   "image_path": "shoes/adidas-boston-13-KI4776.jpg",
+   "created_at": "2026-11-06T00:10:05.765682+00:00"
+  },
+  {
+   "id": "0df1aba8-221b-4c51-8040-7f54d04bc1bc",
+   "shoe_id": "cddd4e17-729a-429b-aa82-e36d33519ea6",
+   "name": "Off White / Collegiate Green / Royal Blue",
+   "sku": "KH9563",
+   "image_path": "shoes/adidas-boston-13-KH9563.jpg",
+   "created_at": "2026-11-06T00:10:05.765682+00:00"
+  },
+  {
+   "id": "79162dd4-c660-471b-9a00-3381f2e52799",
+   "shoe_id": "36f72dac-3806-4d61-9a50-c8ed112ee1f5",
+   "name": "Clear Sky / Carbon / Silver Metallic",
+   "sku": "KI1491",
+   "image_path": "shoes/adidas-evo-sl-KI1491.jpg",
+   "created_at": "2026-11-06T00:10:05.765682+00:00"
+  },
+  {
+   "id": "93a84bed-fc2c-4131-bcea-a200d8bb4ffd",
+   "shoe_id": "36f72dac-3806-4d61-9a50-c8ed112ee1f5",
+   "name": "Off White / Collegiate Green / Royal Blue",
+   "sku": "KJ4984",
+   "image_path": "shoes/adidas-evo-sl-KJ4984.jpg",
+   "created_at": "2026-11-06T00:10:05.765682+00:00"
+  },
+  {
+   "id": "6d1ddcd5-6655-4f57-b57a-ba505f2d5984",
+   "shoe_id": "53e5c841-d415-42b8-92d5-617d7578c20e",
+   "name": "Cloud White / Iron Metallic / Pulse Mint",
+   "sku": "KH8897",
+   "image_path": "shoes/adidas-adios-9-KH8897.jpg",
+   "created_at": "2026-11-06T00:10:05.765682+00:00"
+  },
+  {
+   "id": "d0461ed9-2302-4c25-98b1-2cf86bd43b0f",
+   "shoe_id": "53e5c841-d415-42b8-92d5-617d7578c20e",
+   "name": "Solar Turbo / Core Black / Lucid Red",
+   "sku": "KI5697",
+   "image_path": "shoes/adidas-adios-9-KI5697.jpg",
+   "created_at": "2026-11-06T00:10:05.765682+00:00"
+  },
+  {
+   "id": "3f721d55-54b5-4dd6-9925-ee3ae49d2057",
+   "shoe_id": "e3ad9b25-fd3e-4b6a-ba61-939d0ce946ac",
+   "name": "Core Black / Cloud White / Grey Five",
+   "sku": "JQ0354",
+   "image_path": "shoes/adidas-sl-2-JQ0354.jpg",
+   "created_at": "2026-11-06T00:10:05.765682+00:00"
   }
  ],
  "retailers": [
@@ -2081,9 +2309,127 @@
    "retailers": null,
    "other_colorways": null,
    "updated_at": "2026-11-04T01:26:11.140416+00:00"
+  },
+  {
+   "shoe_id": "056127ce-e472-48f0-8132-1f359ca2c6a9",
+   "dek": null,
+   "colorway_label": "Clear Sky / Carbon / Silver Metallic \u00b7 KJ7040",
+   "released_label": "Released",
+   "release_date_label": null,
+   "stack_label": null,
+   "foam": "Lightstrike Pro",
+   "plate_label": "Carbon EnergyRim",
+   "gallery": [
+    "shoes/adidas-adios-pro-5-KJ7040.jpg",
+    "shoes/adidas-adios-pro-5-KJ7040-2.jpg",
+    "shoes/adidas-adios-pro-5-KJ7040-3.jpg"
+   ],
+   "rd": null,
+   "reviewers": null,
+   "runners": null,
+   "disagreements": null,
+   "retailers": null,
+   "other_colorways": null,
+   "updated_at": "2026-11-06T00:10:05.765682+00:00"
+  },
+  {
+   "shoe_id": "c07d61f5-f0b3-421b-839b-af0075cc0e86",
+   "dek": null,
+   "colorway_label": "Cloud White / Core Black / Solar Turbo \u00b7 KH7678",
+   "released_label": "Released",
+   "release_date_label": null,
+   "stack_label": null,
+   "foam": "Lightstrike Pro Evo",
+   "plate_label": "Carbon",
+   "gallery": [
+    "shoes/adidas-adios-pro-evo-3-KH7678.jpg",
+    "shoes/adidas-adios-pro-evo-3-KH7678-2.jpg",
+    "shoes/adidas-adios-pro-evo-3-KH7678-3.jpg"
+   ],
+   "rd": null,
+   "reviewers": null,
+   "runners": null,
+   "disagreements": null,
+   "retailers": null,
+   "other_colorways": null,
+   "updated_at": "2026-11-06T00:10:05.765682+00:00"
+  },
+  {
+   "shoe_id": "cddd4e17-729a-429b-aa82-e36d33519ea6",
+   "dek": null,
+   "colorway_label": "Clear Sky / Carbon / Silver Metallic \u00b7 KI4776",
+   "released_label": "Released",
+   "release_date_label": null,
+   "stack_label": null,
+   "foam": "Lightstrike Pro + Lightstrike",
+   "plate_label": "Glass-fiber Energyrods",
+   "gallery": [
+    "shoes/adidas-boston-13-KI4776.jpg",
+    "shoes/adidas-boston-13-KI4776-2.jpg",
+    "shoes/adidas-boston-13-KI4776-3.jpg"
+   ],
+   "rd": null,
+   "reviewers": null,
+   "runners": null,
+   "disagreements": null,
+   "retailers": null,
+   "other_colorways": null,
+   "updated_at": "2026-11-06T00:10:05.765682+00:00"
+  },
+  {
+   "shoe_id": "36f72dac-3806-4d61-9a50-c8ed112ee1f5",
+   "dek": null,
+   "colorway_label": "Clear Sky / Carbon / Silver Metallic \u00b7 KI1491",
+   "released_label": "Released",
+   "release_date_label": null,
+   "stack_label": null,
+   "foam": "Lightstrike Pro",
+   "plate_label": "None",
+   "gallery": [
+    "shoes/adidas-evo-sl-KI1491.jpg",
+    "shoes/adidas-evo-sl-KI1491-2.jpg",
+    "shoes/adidas-evo-sl-KI1491-3.jpg"
+   ],
+   "rd": null,
+   "reviewers": null,
+   "runners": null,
+   "disagreements": null,
+   "retailers": null,
+   "other_colorways": null,
+   "updated_at": "2026-11-06T00:10:05.765682+00:00"
+  },
+  {
+   "shoe_id": "53e5c841-d415-42b8-92d5-617d7578c20e",
+   "dek": null,
+   "colorway_label": "Cloud White / Iron Metallic / Pulse Mint \u00b7 KH8897",
+   "released_label": "Released",
+   "release_date_label": null,
+   "stack_label": null,
+   "foam": "Lightstrike Pro",
+   "plate_label": "None",
+   "gallery": [
+    "shoes/adidas-adios-9-KH8897.jpg",
+    "shoes/adidas-adios-9-KH8897-2.jpg",
+    "shoes/adidas-adios-9-KH8897-3.jpg"
+   ],
+   "rd": null,
+   "reviewers": null,
+   "runners": null,
+   "disagreements": null,
+   "retailers": null,
+   "other_colorways": null,
+   "updated_at": "2026-11-06T00:10:05.765682+00:00"
   }
  ],
  "prices": [
+  {
+   "id": "0c97dba6-71c2-4603-abb2-5f7476915da8",
+   "shoe_id": "056127ce-e472-48f0-8132-1f359ca2c6a9",
+   "retailer_id": "693ed0d0-ec0a-4ac3-a17d-eb0e673e39bb",
+   "observed_on": "2026-11-05",
+   "price_cents": 27500,
+   "label": "adidas.com"
+  },
   {
    "id": "a8bbd551-0693-4848-8db0-1dad71c310f7",
    "shoe_id": "16a481c2-548d-4e4a-b027-d276c9cf0801",
@@ -2099,6 +2445,30 @@
    "observed_on": "2026-11-03",
    "price_cents": 13197,
    "label": "KH edition \u00b7 15% off"
+  },
+  {
+   "id": "467caf1b-ed54-4484-af29-137de3bf3e86",
+   "shoe_id": "36f72dac-3806-4d61-9a50-c8ed112ee1f5",
+   "retailer_id": "693ed0d0-ec0a-4ac3-a17d-eb0e673e39bb",
+   "observed_on": "2026-11-05",
+   "price_cents": 12000,
+   "label": "adidas.com \u00b7 20% off most colorways"
+  },
+  {
+   "id": "c87633a5-163d-4740-a0a0-d96b5782a680",
+   "shoe_id": "50d01b79-62ae-492e-b725-928d741b9ed7",
+   "retailer_id": "693ed0d0-ec0a-4ac3-a17d-eb0e673e39bb",
+   "observed_on": "2026-11-05",
+   "price_cents": 20400,
+   "label": "adidas.com \u00b7 20% off"
+  },
+  {
+   "id": "64194b33-51b4-4b1d-930e-88c9b6bcad14",
+   "shoe_id": "53e5c841-d415-42b8-92d5-617d7578c20e",
+   "retailer_id": "693ed0d0-ec0a-4ac3-a17d-eb0e673e39bb",
+   "observed_on": "2026-11-05",
+   "price_cents": 10500,
+   "label": "adidas.com \u00b7 25% off"
   },
   {
    "id": "4739babd-dfe6-45f5-bff0-2e62c4515ab8",
@@ -2139,6 +2509,30 @@
    "observed_on": "2026-11-03",
    "price_cents": 36000,
    "label": "Announced"
+  },
+  {
+   "id": "0bc69fe7-b056-42ad-8d99-577c5b2b8950",
+   "shoe_id": "c07d61f5-f0b3-421b-839b-af0075cc0e86",
+   "retailer_id": "693ed0d0-ec0a-4ac3-a17d-eb0e673e39bb",
+   "observed_on": "2026-11-05",
+   "price_cents": 50000,
+   "label": "adidas.com"
+  },
+  {
+   "id": "8f5ff961-9ec8-487b-9de8-ec0473c9d635",
+   "shoe_id": "cddd4e17-729a-429b-aa82-e36d33519ea6",
+   "retailer_id": "693ed0d0-ec0a-4ac3-a17d-eb0e673e39bb",
+   "observed_on": "2026-11-05",
+   "price_cents": 16000,
+   "label": "adidas.com"
+  },
+  {
+   "id": "87831fd0-aebd-4998-a9a0-74a80eb693cb",
+   "shoe_id": "e3ad9b25-fd3e-4b6a-ba61-939d0ce946ac",
+   "retailer_id": "693ed0d0-ec0a-4ac3-a17d-eb0e673e39bb",
+   "observed_on": "2026-11-05",
+   "price_cents": 5200,
+   "label": "adidas.com \u00b7 60% off"
   },
   {
    "id": "d6cd744e-a467-4113-b27a-804195e19d66",
